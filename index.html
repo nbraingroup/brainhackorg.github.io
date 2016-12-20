@@ -3,78 +3,124 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-
-    <title>events.brainhack.org by brainhackorg</title>
+    <link rel="stylesheet" href="stylesheets/bootstrap.min.css" type="text/css" media="screen" />
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/octicons.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <link rel="stylesheet" href="stylesheets/bib-publication-list.css"/>
+    <link rel="stylesheet" href="stylesheets/default/default.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="stylesheets/nivo-slider.css" type="text/css" media="screen" />
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>Brainhack Proceedings</title>
   </head>
 
   <body>
-    
-    <header>
-      <div class="container">
-        <h1>events.brainhack.org</h1>
-        <h2>Past and Future Brainhack Events!</h2>
+    <div class="container" >
+      <img src="images/brainhack_header.png" alt="Logo" id="logo">
 
-        <section id="downloads">
-          <a href="https://github.com/brainhackorg" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+    <nav class="navbar navbar-bhack">
+      <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+        <!-- <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Brand</a>
+        </div> -->
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <!-- <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li> -->
+        <li><a href="#">About</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Brainhack@Paris 2016</a></li>
+            <li><a href="#">OHBM Hackathon 2016</a></li>
+            <li><a href="#">Brainhack Vienna 2016</a></li>
+            <li><a href="#">Brainhack: Anatomy. Paris 2016</a></li>
+            <li><a href="#">Brainhack LA 2016</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">OHBM Hackathon 2015</a></li>
+            <li><a href="#">Brainhack Montréal 2015</a></li>
+            <li><a href="#">Brainhack Americas 2015</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">OHBM Hackathon 2014</a></li>
+            <li><a href="#">Brainhack Eastern Daylight Time 2014</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Brainhack 2013 (Paris)</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">2012 Brainhack & Unconference (Leipzig)</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Proceedings<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">2015</a></li>
+            <!-- <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li> -->
+          </ul>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+  </div>
+    <div class="container" id="pubtable_outer">
+
+        <header>
+          <center>
+          <h1>Brainhack Proceedings</h1>
+        </header>
+
+        <section id="main_content">
+            <noscript>
+   <!-- bibtex source hidden by default, show it if JS disabled -->
+   <style>
+      #bibtex { display: block;}
+   </style>
+</noscript>
+
+<table id="pubTable" class="display"></table>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="javascripts/bootstrap.min.js"></script>
+<script type="text/javascript" src="javascripts/bib-list.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        bibtexify("brainhack_proceedings.bib", "pubTable", {'visualization':false, 'tweet': 'brainhackorg'});
+    });
+</script>
+
         </section>
+
+        <footer>
+            <center>
+        </center>
+              <center>Publication charges for the 2015 Brainhack Proceedings were generously provided by the <a href="http://www.incf.org">International Neuroinformatics Coordinating Facility</a>.</center>
+        </footer>
+
+                  <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-53194826-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
       </div>
-    </header>
-
-    <div class="container">
-      <section id="main_content">
-        
-        <h1>
-          <a id="2016" class="anchor" href="#2016" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>
-          2016
-        </h1>
-        <table style="width:100%">
-          <tr><td><a href="http://brainhack.org/brainhackparis/">Brainhack@Paris</a></td><td align="right">February 24-26</td></tr>
-          <tr><td><a href="http://events.brainhack.org/OHBM2016">OHBM Hackathon 2016</a></td><td align="right">June 23-25</td></tr>
-          <tr><td><a href="http://events.brainhack.org/vienna">Brainhack Vienna</a></td><td align="right">September 18-20</td></tr>
-	  <tr><td><a href="http://neuroanatomy.github.io/events/brainhack/">Brainhack: Anatomy. Paris</a></td><td align="right">October 24-26</td></tr>
-	  <tr><td><a href="http://events.brainhack.org/LA2016">Brainhack LA</a></td><td align="right">November 10-12</td></tr>	
-        </table>
-
-        <h1>
-          <a id="2015" class="anchor" href="#2015" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>
-          2015
-        </h1>
-        <table style="width:100%">
-          <tr><td><a href="http://brainhack.org/hackathon2015/">OHBM Hackathon 2015 (Honolulu)</a></td><td align="right">June 12-14</td></tr>
-          <tr><td><a href="https://www.rbiq-qbin.qc.ca/en/event/3790">Brainhack Montréal 2015</a></td><td align="right">July 27-29</td></tr>
-          <tr><td><a href="http://brainhack.org/americas/">Brainhack Americas</a></td><td align="right">October 23-25</td></tr>
-        </table>
-
-        <h1>
-          <a id="2014" class="anchor" href="#2014" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>
-          2014
-        </h1>
-        <table style="width:100%">
-          <tr><td><a href="http://brainhack.org/hackathon2014/">OHBM Hackathon 2014 (Berlin)</a></td><td align="right">June 5-7</td></tr>
-          <tr><td><a href="http://brainhack.org/brainhack-edt">Brainhack Eastern Daylight Time</a></td><td align="right">October 18-19</td></tr>
-        </table>
-
-        <h1>
-          <a id="2013" class="anchor" href="#2013" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>
-          2013
-        </h1>
-        <table style="width:100%">
-          <tr><td><a href="http://brainhack.org/brainhack-2013">Brainhack 2013 (Paris)</a></td><td align="right">October 23-26</td></tr>
-        </table>
-
-        <h1>
-          <a id="2012" class="anchor" href="#2012" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>
-          2012
-        </h1>
-        <table style="width:100%">
-          <tr><td><a href="http://www.cbs.mpg.de/events/workshops/brainhack">2012 Brainhack & Unconference (Leipzig)</a></td><td align="right">September 1-4</td></tr>
-        </table>
-        
-      </section>
     </div>
   </body>
 </html>
