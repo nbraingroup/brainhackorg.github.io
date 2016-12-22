@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Brainhack LA"
+date:   2016-12-22 13:52
+categories: Events
+image: brainhack_la.png
+description: This is the first Demo post. Click to see full content.
+---
+This is cameron's new post about his brainhack project.
+
+cc
