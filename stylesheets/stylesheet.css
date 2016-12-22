@@ -627,20 +627,26 @@ footer a:hover {
 }
 
 .post-block {
-    background: #fff;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
+		padding: 4px;
 }
 
 .post-block .post-card {
+	  background: #fff;
     -webkit-transition: all 0.3s;
     transition: all 0.3s;
-    height: 100%;
     position: relative;
+		padding: 4px;
+		min-height: 382px;
+		max-height: 382px ;
 }
 
 .post-block img {
-    max-width: 100%;
+	  width: 374px;
+    height: 248px;
+		object-fit: cover;
+    overflow: hidden;
     vertical-align: middle;
 }
 
