@@ -3,7 +3,6 @@ layout: page
 title: Homepage
 ---
 
-
 <div class="container">
  {% assign num = 0 %}
   {% for post in site.posts %}
@@ -15,14 +14,12 @@ title: Homepage
               <a href="{{ post.url | prepend: site.baseurl }}">
               <div class="post-card">
                   <img src="./assets/images/{{ post.image }}"/>
-                  <!-- <div class="mdl-card__title"> -->
-                  <h2>{{ post.title }}</h2>
-                  <!-- </div> -->
+                  <h3>{{ post.title }}</h3>
 
-                  <!-- <div class="mdl-card__supporting-text"> -->
-                  {{ post.description | truncate:5 }} Click to see more info.
-                  <!-- </div> -->
-                  <!-- <div class="post-card__fade"></div> -->
+                  <div class="post-card__fade">
+                    {{ post.description | truncate:150 }}
+                  </div>
+
               </div>
               </a>
           </div>

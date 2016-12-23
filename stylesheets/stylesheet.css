@@ -650,6 +650,17 @@ footer a:hover {
     vertical-align: middle;
 }
 
+.post-fig{
+  width: 374px;
+  height: 248px;
+  object-fit: cover;
+  float: left;
+  padding-right: 15px;
+}
+
+.post-content{
+
+}
 
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
