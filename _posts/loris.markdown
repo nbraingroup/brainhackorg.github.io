@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Loris"
+date:   2016-12-23 10:53:06
+categories: Project
+image: loris.png
+description: This is a post about Loris: Acknowledgement Generator.
+---
+#Loris: Acknowledgement Generator
+##Summary
+Going through the process of developing a completely new module for LORIS from scratch. The purpose of the Acknowledgement Generator is to aid in dynamically generating the appropriate list of people to acknowledge for any given publication. This really shouldn’t be too complicated, there’s no sorcery involved, so don’t hesitate to collaborate with me. Although if you do know sorcery, I’d be curious to hear about that too.
+
+##Contact:
+Justin Kat
+email: justin.kat@mail.mcgill.ca
+www.prevent-alzheimer.ca
