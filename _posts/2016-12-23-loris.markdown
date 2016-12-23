@@ -13,4 +13,5 @@ Going through the process of developing a completely new module for LORIS from s
 ##Contact:
 Justin Kat
 email: justin.kat@mail.mcgill.ca
+
 www.prevent-alzheimer.ca
