@@ -3,7 +3,7 @@ layout: post
 title:  "Niak in CBRAIN"
 date:   2016-12-23 10:59:06
 categories: Project
-image: niakinbrain.png
+image: niakincbrain.png
 description: This is the first Demo post. Click to see full content.
 ---
 #Niak in CBRAIN

@@ -4,7 +4,7 @@ title:  "Loris"
 date:   2016-12-23 10:53:06
 categories: Project
 image: loris.png
-description: This is a post about Loris: Acknowledgement Generator.
+description: This is a post about Loris, Acknowledgement Generator.
 ---
 #Loris: Acknowledgement Generator
 ##Summary
