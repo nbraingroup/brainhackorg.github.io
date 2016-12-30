@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title:  "About"
 date:   2016-12-23 9:44:06
 categories: jekyll update
