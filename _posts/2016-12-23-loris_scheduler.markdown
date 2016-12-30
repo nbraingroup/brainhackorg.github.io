@@ -13,4 +13,5 @@ We will be focusing on the development of a workstation study scheduler that wil
 
 ## Contact
 Cecile Madjar
+
 [cecile.madjar@gmail.com](mailto: cecile.madjar@gmail.com)
