@@ -22,5 +22,5 @@ Benjamin De Leener
 
 [benjamin.de.leener@polymtl.ca](mailto: benjamin.de.leener@polymtl.ca)
 
-website: [http://www.neuro.polymtl.ca](http://www.neuro.polymtl.ca) or [https://sourceforge.net/projects/spinalcordtoolbox/](https://sourceforge.net/projects/spinalcordtoolbox/)
+[http://www.neuro.polymtl.ca](http://www.neuro.polymtl.ca) or [https://sourceforge.net/projects/spinalcordtoolbox/](https://sourceforge.net/projects/spinalcordtoolbox/)
 
