@@ -4,7 +4,7 @@ title:  "Neurodebian"
 date:   2016-12-23 11:05:06
 categories: Project
 image: neurodebian.png
-description: This is a post about Neurodebian.
+description: NeuroDebian provides a turnkey platform for bare metal or virtualized/cloud deployments. 
 ---
 # Neurodebian
 
