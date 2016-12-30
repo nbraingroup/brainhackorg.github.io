@@ -4,7 +4,7 @@ title:  "Dockerize Neurosynth"
 date:   2016-12-22 13:52
 categories: Project
 image: dockerize.png
-description: This is a project about Dockerize Neurosynth.
+description: Getting a development environment for Neurosynth up and running is a pain at the moment (seehttp://github.com/neurosynth/neurosynth). 
 ---
 # Dockerize Neurosynth
 ## Summary
