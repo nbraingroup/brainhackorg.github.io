@@ -4,10 +4,10 @@ title:  "Loris Modules"
 date:   2016-12-23 11:23:06
 categories: Project
 image: loris.png
-description: This is a post about Loris Modules.
+description: At this year’s Hackathon, we will be pushing forward with new functionality in LORIS, focusing specifically on our Imaging Uploader and Genomics module. 
 ---
-#Loris Modules
-##Summary
+# Loris Modules
+## Summary
 At this year’s Hackathon, we will be pushing forward with new functionality in LORIS, focusing specifically on our Imaging Uploader and Genomics module. Here are some of the areas that we will be discussing:
 
 1. Imaging/Genetics: Enhancements to Genomics module (upload of individual datasets, innovative ways to crosslink genetic and imaging datasets at the individual level).
@@ -20,7 +20,7 @@ At this year’s Hackathon, we will be pushing forward with new functionality in
 
 5. Calendar scheduler: python based scheduler to compliment our DICOM anonimyzer.
 
-##Contact
+## Contact
 Samir Das
-e-mail: samir.das@mcgill.ca
-website: http://brainhack.org/loris/
+[samir.das@mcgill.ca](mailto: samir.das@mcgill.ca)
+[http://brainhack.org/loris/](http://brainhack.org/loris/)
