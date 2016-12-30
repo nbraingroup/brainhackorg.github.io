@@ -6,11 +6,11 @@ categories: Project
 image: loris.png
 description: This is a post about the Loris, Scheuler and ID Mapper.
 ---
-#Loris: Scheduler/ID Mapper
+# Loris: Scheduler/ID Mapper
 
-##Summary
+## Summary
 We will be focusing on the development of a workstation study scheduler that will be hooked up to the existing DICOM anonymizer.
 
-##Contact
+## Contact
 Cecile Madjar
-email: cecile.madjar@gmail.com
+[cecile.madjar@gmail.com](mailto: cecile.madjar@gmail.com)
