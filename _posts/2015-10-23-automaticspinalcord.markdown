@@ -21,7 +21,7 @@ The method must be developed in Python or C++ and can be tested on large dataset
 
 Benjamin De Leener
 
-[benjamin.de.leener@polymtl.ca]((mailto: benjamin.de.leener@polymtl.ca)
+[benjamin.de.leener@polymtl.ca](mailto: benjamin.de.leener@polymtl.ca)
 
 website: [http://www.neuro.polymtl.ca](mailto: http://www.neuro.polymtl.ca) or [https://sourceforge.net/projects/spinalcordtoolbox/](mailto:https://sourceforge.net/projects/spinalcordtoolbox/)
 
