@@ -8,7 +8,7 @@ description: Is a project in conceptualization state.
 ---
 # DueCredit
 
-## Summary
+##Summary
 Is a project in conceptualization state. It aims to provide a simple framework (at the moment for Python only) to embed publication or other references in the original code so they are automatically collected and reported to the user at the necessary level of reference detail, i.e. only references for actually used functionality will be presented back if software provides multiple citeable implementations.
 
 ## Contact
