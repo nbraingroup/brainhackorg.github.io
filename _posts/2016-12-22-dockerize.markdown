@@ -15,4 +15,5 @@ Getting a development environment for Neurosynth up and running is a pain at the
 ## Contact
 Tal Yarkoni
 [tyarkoni@gmail.com](mailto: tyarkoni@gmail.com)
+
 [http://github.com/neurosynth/neurosynth-web](http://github.com/neurosynth/neurosynth-web)
