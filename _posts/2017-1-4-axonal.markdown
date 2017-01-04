@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Random Axonal Growth"
+date:   2017-1-4 10:59:06
+categories: Project
+image: axonal.png
+description: We will develop a CBRAIN task that can execute a PSOM/Niak pipeline.
+---
+# Random Axonal Growth
+
+## Summary
+Implementation of random axonal growth to measure the connection length and simulate the growth.
+
+This project is based on the paper from Sol Lims and Marcus Kaisers paper: “Developmental time windows for axon growth influence neuronal network topology” published in Biological cybernetics 109.2 (2015) on pages 275-286.
+
+It simulates how the axons can growth and make up their connections.
+
+The aim for this project is to deliver a fast and efficient solution, where other people may alter it for their research interests. Therefore it is written in Python.
+
+The simulation decisions i made is more of a computer science view of how one can achieving some features.
+
+So feel free to toy around and contact me if you have questions or find bugs or something else.
+
+Thanks, Jan
+
+## Contact
+Jan Zelmer
+
+[jan.zelmer@gmx.net](mailto: jan.zelmer@gmx.net)
+
+[https://github.com/NeuroanatomyAndConnectivity/RandomAxonalGrowthModel](https://github.com/NeuroanatomyAndConnectivity/RandomAxonalGrowthModel)
