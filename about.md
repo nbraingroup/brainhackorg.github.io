@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: page
 title:  "About"
 date:   2016-12-23 9:44:06
 categories: jekyll update
@@ -17,7 +17,7 @@ These collaborative workshops combine elements of Hackathons and Unconferences, 
 
 ### Board
 
-The board is currently made up of the founders of Brainhack. The board meets quarterly to plan future Brainhack events and discuss other business. 
+The board is currently made up of the founders of Brainhack. The board meets quarterly to plan future Brainhack events and discuss other business.
 
 * Cameron Craddock, director
 * Daniel Margulies
@@ -45,6 +45,3 @@ We invite full length publications that describe projects worked on as part of B
 elow is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the [Brainhack Proceedings](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0) and in our recent publication on [Brainhack](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x).
 
 [comment]: <> Insert table
-
-
-
