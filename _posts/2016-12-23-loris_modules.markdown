@@ -9,7 +9,7 @@ description: At this year’s Hackathon, we will be pushing forward with new fun
 # Loris Modules
 
 Summary
-=======
+-------
 At this year’s Hackathon, we will be pushing forward with new functionality in LORIS, focusing specifically on our Imaging Uploader and Genomics module. Here are some of the areas that we will be discussing:
 
 1. Imaging/Genetics: Enhancements to Genomics module (upload of individual datasets, innovative ways to crosslink genetic and imaging datasets at the individual level).
