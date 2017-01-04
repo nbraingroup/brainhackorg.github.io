@@ -29,7 +29,7 @@ The board is currently made up of the founders of Brainhack. The board meets qua
 ### Current Members
 
 The Brainhack organization is composed of individuals that have previously hosted brainhack events and those that plan to host events in the future. Members include:
-[comment]: <> Insert table with members
+[comment]: <Insert table with members>
 
 ### How to become a member
 If you would like to join the organization please contact a board member or email info@brainhack.org.
@@ -43,6 +43,6 @@ We publish short reports describing projects completed at Brainhack events that 
 We invite full length publications that describe projects worked on as part of Brainhack or that are consistent with the Brainhack Proceedings to be published in the GigaScience Brainhack Thematic Series.
 
 ### Brainhack Outcomes
-elow is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the [Brainhack Proceedings](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0) and in our recent publication on [Brainhack](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x).
+Below is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the [Brainhack Proceedings](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0) and in our recent publication on [Brainhack](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x).
 
-[comment]: <> Insert table
+[comment]: <Insert table>
