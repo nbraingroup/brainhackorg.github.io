@@ -6,10 +6,6 @@ categories: jekyll update
 image: destkop-image-sample.jpg
 description: This is a page about Brainhack.
 ---
-<html>
-<head>
-    <link href="style.css" rel="stylesheet">
-</head>
 
 # About
 ## Information about the brainhack organization and hosting a brainhack
