@@ -13,4 +13,5 @@ We will develop a CBRAIN task that can execute a PSOM/Niak pipeline. The task wi
 
 ## Contact
 Tristan Glatard/Pierre-Olivier Quirion
+
 [tristan.glatard@mcgill.ca](mailto: tristan.glatard@mcgill.ca)
