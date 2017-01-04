@@ -40,7 +40,6 @@ title: About Trial
           <p>Below is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the [Brainhack Proceedings](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0) and in our recent publication on [Brainhack](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x).</p>
 
           <Insert table>
-  </header>
   <section id="main_content">
     <noscript>
     <!-- bibtex source hidden by default, show it if JS disabled -->
@@ -60,4 +59,3 @@ title: About Trial
     </script>
   </section>
   <footer>  </footer>
-</div>
