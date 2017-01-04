@@ -4,7 +4,7 @@ title:  "Random Axonal Growth"
 date:   2017-1-4 10:59:06
 categories: Project
 image: axonal.png
-description: We will develop a CBRAIN task that can execute a PSOM/Niak pipeline.
+description: Implementation of random axonal growth to measure the connection length and simulate the growth.
 ---
 # Random Axonal Growth
 
