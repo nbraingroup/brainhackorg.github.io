@@ -3,7 +3,7 @@ layout: post
 title:  "Decision Outsourcing App"
 date:   2017-1-4 10:59:06
 categories: Project
-image: automaticspinalcord.png
+image: decisionoutsourcing.jpeg
 description: Decision outsourcing is a strategy informed by the brain science research described in the Wisdom of Crowds.
 ---
 # Niftyview
