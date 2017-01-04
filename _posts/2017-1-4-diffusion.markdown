@@ -3,7 +3,7 @@ layout: post
 title:  "Diffusion Imaging in Python"
 date:   2017-1-4 10:59:06
 categories: Project
-image: diffusion.png
+image: diffusion.jpg
 description: During Montreal Brainhack EDT some of the Diffusion Imaging in Python 
 ---
 # Diffusion Imaging in Python
