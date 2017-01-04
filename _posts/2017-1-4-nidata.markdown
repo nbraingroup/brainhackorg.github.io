@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Nidata A Python Library for Downloading Publicly Available Neuroimaging Data"
+title:  "Nidata: A Python Library for Downloading Publicly Available Neuroimaging Data"
 date:   2017-1-4 10:59:06
 categories: Project
 image: nidata.png
 description: We will develop a CBRAIN task that can execute a PSOM/Niak pipeline.
 ---
-# Nidata A Python Library for Downloading Publicly Available Neuroimaging Data
+# Nidata: A Python Library for Downloading Publicly Available Neuroimaging Data
 
 ## Summary
 Data science and citizen science are both exploding, but neuroimaging research is not taking advantage. Publicly available datasets are strewn across the Internet, often in proprietary formats and specialized code for downloading and loading them. Standardized documentation about each dataset is critical.
