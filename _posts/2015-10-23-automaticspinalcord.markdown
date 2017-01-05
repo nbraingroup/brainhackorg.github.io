@@ -6,8 +6,6 @@ categories: Project
 image: automaticspinalcord.png
 description: The Spinal Cord Toolbox is the first software for processing multiparametric MRI of the spinal cord. The primary step is the automatic segmentation of the spinal cord, and is currently performed by PropSeg.
 ---
-# Automatic Spinal Cord Centerline Extraction on MR Images
-
 ## Summary
 The Spinal Cord Toolbox is the first software for processing multiparametric MRI of the spinal cord. The primary step is the automatic segmentation of the spinal cord, and is currently performed by PropSeg (https://sourceforge.net/p/spinalcordtoolbox/wiki/sct_propseg/).
 
