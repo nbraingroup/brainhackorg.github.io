@@ -41,6 +41,13 @@ title: About
           <div class="col-md-12">
             <div class="col-md-8"><h3>Project</h3></div><div class="col-md-4"><h3>Brainhack Event</h3></div>
             <div class="col-md-8"><p>A child psychiatrist and a 3D video artist initiated a collaboration to develop a movie to be shown to participants during resting-state fMRI scans to reduce head motion in hyperkinetic populations</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>
+            <div class="col-md-8"><p>The ABIDE Preprocessing Initiative is an ongoing project to share preprocessed versions of the Autism Brain Imaging Data Exchange (ABIDE) dataset</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>
+            <div class="col-md-8"><p>An analysis to identify differences in cortical thickness and structural covariance between individuals with autism spectrum disorder and neurotypical controls</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>
+            <div class="col-md-8"><p>A project team amassed a dataset of 14,781 structural MRI scans to estimate the distribution of brain sizes across individuals for optimizing scan acquisition parameters</p></div><div class="col-md-4"><p>Brainhack 2013 Paris</p></div>
+            <div class="col-md-8"><p>The development team of LORIS, an open source database system for neuroimaging and phenotypic data, have repeatedly used Brainhack as an opportunity to meet and collaborate on new features</p></div><div class="col-md-4"><p></p></div>
+            <div class="col-md-8"><p>An early version of the Daydreaming app, an Android application for real-time assessment of users’ mind-wandering</p></div><div class="col-md-4"><p>Brainhack 2013 Paris</p></div>
+            <div class="col-md-8"><p>The Clubs of Science project has built a web-based visualization of the social web underlying neuroimaging research</p></div><div class="col-md-4"><p>Brainhack Montreal 2015</p></div>
+            <div class="col-md-8"><p>The linkRbrain tool for integrating and querying neuroimaging data with activation peaks from the literature and gene expression data was partially developed and first tested</p></div><div class="col-md-4"><p>Brainhack 2013 Paris</p></div>
           </div>
 
   <section id="main_content">
