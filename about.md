@@ -38,7 +38,7 @@ title: About
 
           <h3>Brainhack Outcomes</h3>
           <p>Below is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0">Brainhack Proceedings</a> and in our recent publication on <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Brainhack</a>.</p>
-          <div class="col-md-12">
+          <div id="projectgrid" class="col-md-12">
             <div class="col-md-8"><h3>Project</h3></div><div class="col-md-4"><h3>Brainhack Event</h3></div>
             <div class="col-md-8"><p>A child psychiatrist and a 3D video artist initiated a collaboration to develop a movie to be shown to participants during resting-state fMRI scans to reduce head motion in hyperkinetic populations</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>
             <div class="col-md-8"><p>The ABIDE Preprocessing Initiative is an ongoing project to share preprocessed versions of the Autism Brain Imaging Data Exchange (ABIDE) dataset</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>

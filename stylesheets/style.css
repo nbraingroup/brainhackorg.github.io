@@ -87,6 +87,10 @@ a:hover, a:active {
 	margin: 100px auto;
 }
 
+#projectsgrid {
+	border: 1px solid #ccc;
+}
+
 /*====================*/
 /*=== Other Styles ===*/
 /*====================*/
