@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nidata: A Python Library for Downloading Publicly Available Neuroimaging Data"
-date:   2017-1-4 12:33:06
+date:   2017-1-4 9:33:06
 categories: Project
 image: nidata.png
 description: Data science and citizen science are both exploding, but neuroimaging research is not taking advantage.
