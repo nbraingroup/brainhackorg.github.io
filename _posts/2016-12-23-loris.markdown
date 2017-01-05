@@ -6,8 +6,6 @@ categories: Project
 image: loris.png
 description: Going through the process of developing a completely new module for LORIS from scratch.
 ---
-# Loris: Acknowledgement Generator
-
 ## Summary
 
 Going through the process of developing a completely new module for LORIS from scratch. The purpose of the Acknowledgement Generator is to aid in dynamically generating the appropriate list of people to acknowledge for any given publication. This really shouldn’t be too complicated, there’s no sorcery involved, so don’t hesitate to collaborate with me. Although if you do know sorcery, I’d be curious to hear about that too.
