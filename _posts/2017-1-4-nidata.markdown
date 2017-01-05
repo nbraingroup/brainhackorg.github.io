@@ -6,8 +6,6 @@ categories: Project
 image: nidata.png
 description: Data science and citizen science are both exploding, but neuroimaging research is not taking advantage.
 ---
-# Nidata: A Python Library for Downloading Publicly Available Neuroimaging Data
-
 ## Summary
 Data science and citizen science are both exploding, but neuroimaging research is not taking advantage. Publicly available datasets are strewn across the Internet, often in proprietary formats and specialized code for downloading and loading them. Standardized documentation about each dataset is critical.
 I plan to create a new Python library for downloading every publicly available datasets. These included datasets from NITRC, XNAT.ORG, OPENFRMI, amongst others.
