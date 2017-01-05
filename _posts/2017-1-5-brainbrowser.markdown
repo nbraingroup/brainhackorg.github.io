@@ -9,7 +9,8 @@ description: BrainBrowser is a set of open source, web-based, 3D visualization t
 ## Summary
 BrainBrowser is a set of open source, web-based, 3D visualization tools primarily targetting neuroimaging. Using open web-standard technologies, such as WebGL and HTML5, it allows for real time manipulation and analysis of 3D imaging data.
 
-Source code: [https://github.com/aces/brainbrowser](https://github.com/aces/brainbrowser) API Docs: [https://brainbrowser.cbrain.mcgill.ca/docs/](https://brainbrowser.cbrain.mcgill.ca/docs/)
+Source code: [https://github.com/aces/brainbrowser](https://github.com/aces/brainbrowser)  
+API Docs: [https://brainbrowser.cbrain.mcgill.ca/docs/](https://brainbrowser.cbrain.mcgill.ca/docs/)  
 
 ## Contact  
 Tarek Sherif  
