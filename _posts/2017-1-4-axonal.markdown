@@ -6,8 +6,6 @@ categories: Project
 image: axonal.png
 description: Implementation of random axonal growth to measure the connection length and simulate the growth.
 ---
-# Random Axonal Growth
-
 ## Summary
 Implementation of random axonal growth to measure the connection length and simulate the growth.
 
