@@ -6,8 +6,6 @@ categories: Project
 image: nidm.png
 description: The Neuroimaging Data Model (NIDM) is a general framework for data exchange that is defined using a set of community developed specifications to convey neuroimagingdata and meta-data, developed by the INCF Neuroimaging Task Force.
 ---
-# NIDM Apps
-
 ## Summary
 The Neuroimaging Data Model (NIDM) is a general framework for data exchange that is defined using a set of community developed specifications (http://nidm.nidash.org/specs/) to convey neuroimagingdata and meta-data, developed by the INCF Neuroimaging Task Force (http://wiki.incf.org/mediawiki/index.php/Neuroimaging_Task_Force).
 
