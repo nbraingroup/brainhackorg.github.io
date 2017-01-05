@@ -13,7 +13,6 @@ Advances in MRI scans for human research have made it possible to collect a vari
 
 Labs are working on ways to integrate these data, but existing methods work best on very large datasets of thousands of participants. Most experimental researchers in cognitive neuroscience have group sizes numbering in tens of participants. Our goal is to find ways to use the complementary information in multimodal structural MRI for more powerful and interesting analyses.
 
-## Contact
-Emily Coffey
-
-[emily@flighteducation.net](mailto: emily@flighteducation.net)
+## Contact  
+Emily Coffey  
+[emily@flighteducation.net](mailto: emily@flighteducation.net)  
