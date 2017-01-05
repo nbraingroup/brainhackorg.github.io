@@ -23,9 +23,7 @@ So feel free to toy around and contact me if you have questions or find bugs or 
 
 Thanks, Jan
 
-## Contact
-Jan Zelmer
-
-[jan.zelmer@gmx.net](mailto: jan.zelmer@gmx.net)
-
-[https://github.com/NeuroanatomyAndConnectivity/RandomAxonalGrowthModel](https://github.com/NeuroanatomyAndConnectivity/RandomAxonalGrowthModel)
+## Contact  
+Jan Zelmer  
+[jan.zelmer@gmx.net](mailto: jan.zelmer@gmx.net)  
+[https://github.com/NeuroanatomyAndConnectivity/RandomAxonalGrowthModel](https://github.com/NeuroanatomyAndConnectivity/RandomAxonalGrowthModel)  
