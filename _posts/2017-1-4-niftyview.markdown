@@ -14,4 +14,4 @@ NiftyView is a web-based application for viewing and analyzing medical images. M
 ## Contact  
 Weiran Deng    
 [weiran@hawaii.edu](mailto: weiran@hawaii.edu)  
-[http://www2.hawaii.edu/~weiran/NiftyView.html](http://www2.hawaii.edu/~weiran/NiftyView.html)
+[http://www2.hawaii.edu/~weiran/NiftyView.html](http://www2.hawaii.edu/~weiran/NiftyView.html)  
