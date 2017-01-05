@@ -6,8 +6,6 @@ categories: Project
 image: dockerize.png
 description: Getting a development environment for Neurosynth up and running is a pain at the moment (seehttp://github.com/neurosynth/neurosynth).
 ---
-# Dockerize Neurosynth
-
 ## Summary
 Getting a development environment for Neurosynth up and running is a pain at the moment (seehttp://github.com/neurosynth/neurosynth). In this project, we’ll wrap the server code and all dependencies up in a nice Docker container so that contributing to Neurosynth becomes much easier.
 
