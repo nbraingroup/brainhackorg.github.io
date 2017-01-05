@@ -6,8 +6,6 @@ categories: Project
 image: niakincbrain.png
 description: We will develop a CBRAIN task that can execute a PSOM/Niak pipeline.
 ---
-# Niak in CBRAIN
-
 ## Summary
 We will develop a CBRAIN task that can execute a PSOM/Niak pipeline. The task will be executed in a Niak/PSOM Docker image.
 
