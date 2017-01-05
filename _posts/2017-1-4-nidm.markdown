@@ -20,10 +20,7 @@ We would like to invite Hackathon participants to build applications using NIDM.
 4. Create a JavaScript viewer for NIDM results using existing components such as Papaya viewer (e.g.: https://github.com/incf-nidash/nidmviewer)
 5. Make existing utilities (such as nib-ls from https://github.com/nipy/nibabel/ NIDM aware).
 
-## Contact
-
-Tom Nichols for NIDASH
-
-[Neuroimaging-TF@incf.org](mailto: Neuroimaging-TF@incf.org)
-
-[http://nidm.nidash.org/specs](http://nidm.nidash.org/specs)
+## Contact  
+Tom Nichols for NIDASH  
+[Neuroimaging-TF@incf.org](mailto: Neuroimaging-TF@incf.org)  
+[http://nidm.nidash.org/specs](http://nidm.nidash.org/specs)  
