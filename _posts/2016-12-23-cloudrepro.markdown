@@ -15,9 +15,7 @@ Community participants are welcomed and encouraged!
 
 This project hopes to leverage the NITRC-CE, nipype, testkraut, and existing shared data/shared results and will be an excellent opportunity to learn about cloud computing.
 
-## Contact
-David Kennedy
-
-[David.Kennedy@umassmed.edu](mailto: David.Kennedy@umassmed.edu)
-
-[http://www.nitrc.org/ce](http://www.nitrc.org/ce)
+## Contact  
+David Kennedy  
+[David.Kennedy@umassmed.edu](mailto: David.Kennedy@umassmed.edu)  
+[http://www.nitrc.org/ce](http://www.nitrc.org/ce)  
