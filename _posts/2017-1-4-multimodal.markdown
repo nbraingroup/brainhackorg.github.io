@@ -6,8 +6,6 @@ categories: Project
 image: multimodal.png
 description: Our goal is to find ways to use the complementary information in multimodal structural MRI for more powerful and interesting analyses. 
 ---
-# Multimodal Sturctural MRI Analysis
-
 ## Summary
 Advances in MRI scans for human research have made it possible to collect a variety of scan sequences for a single subject within a single session (e.g. VBM, DWI, magnetization transfer). Currently, these are analyzed separately and conclusions are drawn by ’eye-balling’ apparent relationships, for example that an area of thicker cortex overlies white matter with increased myelination.
 
