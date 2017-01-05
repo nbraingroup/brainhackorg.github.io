@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Trial
+title: About
 ---
 
 <div class="container" id="pubtable">
@@ -38,7 +38,9 @@ title: About Trial
 
           <h3>Brainhack Outcomes</h3>
           <p>Below is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0">Brainhack Proceedings</a> and in our recent publication on <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Brainhack</a>.</p>
-          <Insert table with outcomes>
+          <div class="col-md-12">
+            <div class="col-md-8">Project</div><div class="col-md-4">Brainhack Event</div>
+          </div>
 
   <section id="main_content">
     <noscript>
