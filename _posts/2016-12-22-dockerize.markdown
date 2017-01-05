@@ -11,9 +11,7 @@ description: Getting a development environment for Neurosynth up and running is 
 ## Summary
 Getting a development environment for Neurosynth up and running is a pain at the moment (seehttp://github.com/neurosynth/neurosynth). In this project, we’ll wrap the server code and all dependencies up in a nice Docker container so that contributing to Neurosynth becomes much easier.
 
-## Contact
-Tal Yarkoni
-
-[tyarkoni@gmail.com](mailto: tyarkoni@gmail.com)
-
-[http://github.com/neurosynth/neurosynth-web](http://github.com/neurosynth/neurosynth-web)
+## Contact  
+Tal Yarkoni  
+[tyarkoni@gmail.com](mailto: tyarkoni@gmail.com)  
+[http://github.com/neurosynth/neurosynth-web](http://github.com/neurosynth/neurosynth-web)  
