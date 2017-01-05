@@ -6,8 +6,6 @@ categories: Project
 image: spinalcord.png
 description: We are currently working on an automatic segmentation method for the spinal cord gray matter on T2*-weighted images, based on the deformation (using ANTs) of a probabilistic map of the gray matter.
 ---
-# Spinal Cord Gray Matter Segmentation Using Atlas Deformation
-
 ## Summary
 The Spinal Cord Toolbox (SCT) is a comprehensive software enabling the registration of patient’s MR images on a generic template and the extraction of multi-parametric MR data in individual spinal cord tracts (http://sourceforge.net/projects/spinalcordtoolbox/). Currently, the SCT does not take the patient’s gray matter morphology into account for the deformation of white matter tracts; therefore resulting in possible tract position errors (e.g., tracts falling outside the spinal cord or overlapping the gray matter).
 
