@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1000 Functional Connectomes Project/INDI: Future Consortiums"
+title:  "1000 Functional Connectomes Project/ INDI: Future Consortiums"
 date:   2017-1-5 10:59:06
 categories: Project
 image: 1000.jpg
