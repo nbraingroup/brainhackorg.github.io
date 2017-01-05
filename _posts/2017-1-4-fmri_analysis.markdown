@@ -15,8 +15,6 @@ In 2015, CBRAIN was released as an open-source product (https://github.com/aces/
 In this project, we will focus on the integration of fMRI tools in CBRAIN. Integrated tools will include FSL melodic, FSL feat, and any other relevant program proposed by Hackathon participants. Developments will cover core tool integration, viewers, and quality control.
 
 ## Contact
-Tristan Glatard
-
-[tristan.glatard@mcgill.ca](mailto: tristan.glatard@mcgill.ca)
-
-[http://cbrain.mcgill.ca](http://cbrain.mcgill.ca)
+Tristan Glatard  
+[tristan.glatard@mcgill.ca](mailto: tristan.glatard@mcgill.ca)  
+[http://cbrain.mcgill.ca](http://cbrain.mcgill.ca)  
