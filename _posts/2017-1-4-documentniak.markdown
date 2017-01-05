@@ -6,8 +6,6 @@ categories: Project
 image: documentniak.png
 description: The Neuroimaging Analysis Kit (NIAK) is a software library for the data mining of large fMRI datasets.
 ---
-# Document NIAK
-
 ## Summary
 The Neuroimaging Analysis Kit (NIAK) is a software library for the data mining of large fMRI datasets. It is developped by members and collaborators of the SIMEXP-lab at UdM. The objective of this project will be to reformat the existing documentation into a much cleaner flat doc website, using easy-to-edit mark-down files. In addition to a simple port of the existing documentation, we’ll add pages on some recent pipelines (BASC-FIR, GLM-connectome, GLM-FIR). We’ll also be working on step-by-step tutorials.
 
