@@ -23,8 +23,7 @@ title: About
           </ul>
 
           <h3>Current Members</h3>
-          <p>The Brainhack organization is composed of individuals that have previously hosted brainhack events and those that plan to host events in the future. Members include:</p>
-          <Insert table with members>
+          <p>The Brainhack organization is composed of individuals that have previously hosted brainhack events and those that plan to host events in the future. Click <a href="/list_of_brainhack_members.xls">here</a> to download a full list of members. <insert list in link>
 
           <h3>How to Become a Member</h3>
           <p>If you would like to join the organization please contact a board member or email info@brainhack.org.</p>
