@@ -6,8 +6,6 @@ categories: Project
 image: loris.png
 description: We will be focusing on the development of a workstation study scheduler that will be hooked up to the existing DICOM anonymizer.
 ---
-# Loris: Scheduler/ID Mapper
-
 ## Summary
 We will be focusing on the development of a workstation study scheduler that will be hooked up to the existing DICOM anonymizer.
 
