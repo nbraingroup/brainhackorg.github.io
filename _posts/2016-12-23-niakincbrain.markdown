@@ -11,7 +11,6 @@ description: We will develop a CBRAIN task that can execute a PSOM/Niak pipeline
 ## Summary
 We will develop a CBRAIN task that can execute a PSOM/Niak pipeline. The task will be executed in a Niak/PSOM Docker image.
 
-## Contact
-Tristan Glatard/Pierre-Olivier Quirion
-
-[tristan.glatard@mcgill.ca](mailto: tristan.glatard@mcgill.ca)
+## Contact  
+Tristan Glatard/Pierre-Olivier Quirion  
+[tristan.glatard@mcgill.ca](mailto: tristan.glatard@mcgill.ca)  
