@@ -41,8 +41,8 @@ title: About
           <div id="projectgrid" class="col-md-12">
           <table>
             <tr>
-              <th>Project</th>
-              <th>Brainhack Event</th>
+              <th><h3>Project</h3></th>
+              <th><h3>Brainhack Event</h3></th>
             </tr>
             <tr>
               <td>A child psychiatrist and a 3D video artist initiated a collaboration to develop a movie to be shown to participants during resting-state fMRI scans to reduce head motion in hyperkinetic populations</td>
