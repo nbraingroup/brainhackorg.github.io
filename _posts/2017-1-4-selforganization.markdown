@@ -11,7 +11,6 @@ description: In this project a simple mathematical model for self-organization i
 ## Summary
 The brain is a self-organizing system, where the self-organization depends on the external inputs. In this project a simple mathematical model for self-organization is investigated. This aims to establish knowledge about self-organization and transfer it to cortical processes in the brain.
 
-## Contact
-Jörg Pfannmöller
-
-[pfannmoelj@uni-greifswald.de](mailto: pfannmoelj@uni-greifswald.de)
+## Contact  
+Jörg Pfannmöller  
+[pfannmoelj@uni-greifswald.de](mailto: pfannmoelj@uni-greifswald.de)  
