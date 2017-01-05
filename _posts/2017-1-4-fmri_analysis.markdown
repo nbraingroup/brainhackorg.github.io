@@ -6,8 +6,6 @@ categories: Project
 image: fmri_analysis.jpg
 description: CBRAIN is an open-source, web-based, distributed computing platform for collaborative neuroimaging.
 ---
-# fMRI Analysis with CBRAIN
-
 ## Summary
 CBRAIN is an open-source, web-based, distributed computing platform for collaborative neuroimaging. The CBRAIN service operated in Montreal is currently connected to nine national research High Performance Computing (HPC) centers in Canada, one in Korea, one in Germany, and several local research servers. As May 2015, CBRAIN was serving over 330 users spread across 50 cities in 17 countries.
 
