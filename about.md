@@ -39,15 +39,44 @@ title: About
           <h3>Brainhack Outcomes</h3>
           <p>Below is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0">Brainhack Proceedings</a> and in our recent publication on <a href="https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x">Brainhack</a>.</p>
           <div id="projectgrid" class="col-md-12">
-            <div class="col-md-8"><h3>Project</h3></div><div class="col-md-4"><h3>Brainhack Event</h3></div>
-            <div class="col-md-8"><p>A child psychiatrist and a 3D video artist initiated a collaboration to develop a movie to be shown to participants during resting-state fMRI scans to reduce head motion in hyperkinetic populations</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>
-            <div class="col-md-8"><p>The ABIDE Preprocessing Initiative is an ongoing project to share preprocessed versions of the Autism Brain Imaging Data Exchange (ABIDE) dataset</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>
-            <div class="col-md-8"><p>An analysis to identify differences in cortical thickness and structural covariance between individuals with autism spectrum disorder and neurotypical controls</p></div><div class="col-md-4"><p>2012 Brainhack & Unconference (Leipzig)</p></div>
-            <div class="col-md-8"><p>A project team amassed a dataset of 14,781 structural MRI scans to estimate the distribution of brain sizes across individuals for optimizing scan acquisition parameters</p></div><div class="col-md-4"><p>Brainhack 2013 Paris</p></div>
-            <div class="col-md-8"><p>The development team of LORIS, an open source database system for neuroimaging and phenotypic data, have repeatedly used Brainhack as an opportunity to meet and collaborate on new features</p></div><div class="col-md-4"><p></p></div>
-            <div class="col-md-8"><p>An early version of the Daydreaming app, an Android application for real-time assessment of users’ mind-wandering</p></div><div class="col-md-4"><p>Brainhack 2013 Paris</p></div>
-            <div class="col-md-8"><p>The Clubs of Science project has built a web-based visualization of the social web underlying neuroimaging research</p></div><div class="col-md-4"><p>Brainhack Montreal 2015</p></div>
-            <div class="col-md-8"><p>The linkRbrain tool for integrating and querying neuroimaging data with activation peaks from the literature and gene expression data was partially developed and first tested</p></div><div class="col-md-4"><p>Brainhack 2013 Paris</p></div>
+          <table>
+            <tr>
+              <th>Project</th>
+              <th>Brainhack Event</th>
+            </tr>
+            <tr>
+              <td>A child psychiatrist and a 3D video artist initiated a collaboration to develop a movie to be shown to participants during resting-state fMRI scans to reduce head motion in hyperkinetic populations</td>
+              <td>2012 Brainhack &amp; Unconference (Leipzig)</td>
+            </tr>
+            <tr>
+              <td>The ABIDE Preprocessing Initiative is an ongoing project to share preprocessed versions of the Autism Brain Imaging Data Exchange (ABIDE) dataset</td>
+              <td>2012 Brainhack &amp; Unconference (Leipzig)</td>
+            </tr>
+            <tr>
+              <td>An analysis to identify differences in cortical thickness and structural covariance between individuals with autism spectrum disorder and neurotypical controls</td>
+              <td>2012 Brainhack &amp; Unconference (Leipzig)</td>
+            </tr>
+            <tr>
+              <td>A project team amassed a dataset of 14,781 structural MRI scans to estimate the distribution of brain sizes across individuals for optimizing scan acquisition parameters</td>
+              <td>Brainhack 2013 Paris</td>
+            </tr>
+            <tr>
+              <td>The development team of LORIS, an open source database system for neuroimaging and phenotypic data, have repeatedly used Brainhack as an opportunity to meet and collaborate on new features</td>
+              <td></td>
+            </tr>
+            <tr>
+              <td>An early version of the Daydreaming app, an Android application for real-time assessment of usersŐ mind-wandering</td>
+              <td>Brainhack 2013 Paris</td>
+            </tr>
+            <tr>
+              <td>The Clubs of Science project has built a web-based visualization of the social web underlying neuroimaging research</td>
+              <td>Brainhack Montreal 2015</td>
+            </tr>
+            <tr>
+              <td>The linkRbrain tool for integrating and querying neuroimaging data with activation peaks from the literature and gene expression data was partially developed and first tested</td>
+              <td>Brainhack 2013 Paris</td>
+            </tr>
+          </table>
           </div>
 
   <section id="main_content">
