@@ -6,8 +6,6 @@ categories: Project
 image: diffusion.jpg
 description: During Montreal Brainhack EDT some of the Diffusion Imaging in Python 
 ---
-# Diffusion Imaging in Python
-
 ## Summary
 During Montreal Brainhack EDT some of the Diffusion Imaging in Python (Dipy) developers (Eleftherios, Marc-Alex and Etienne) will be available to help people learn how to analyze diffusion MRI data with the latest state-of-the-art methods available in Dipy! So, bring your datasets!
 
