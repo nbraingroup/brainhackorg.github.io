@@ -16,7 +16,6 @@ During Brainhack, we will continue the development of this web-interface. We are
 ## What can I do?
 Some NIAK contributors will be at the hackaton, working on new content. Even if you don’t know anything about the project, there are ways to make extremely useful contributions: review/clarify the existing documentation, test-drive and improve the tutorials.
 
-## Contact
-Pierre Bellec
-
-[pierre.bellec@criugm.qc.ca](mailto: pierre.bellec@criugm.qc.ca)
+## Contact  
+Pierre Bellec  
+[pierre.bellec@criugm.qc.ca](mailto: pierre.bellec@criugm.qc.ca)  
