@@ -23,10 +23,10 @@ title: About
           </ul>
 
           <h3>Current Members</h3>
-          <p>The Brainhack organization is composed of individuals that have previously hosted brainhack events and those that plan to host events in the future. Click <a href="/list_of_brainhack_members.xls">here</a> to download a full list of members. <insert list in link>
+          <p>The Brainhack organization is composed of individuals that have previously hosted brainhack events and those that plan to host events in the future. Click <a href="/list_of_brainhack_members.xls">here</a> to download a full list of members.
 
           <h3>How to Become a Member</h3>
-          <p>If you would like to join the organization please contact a board member or email info@brainhack.org.</p>
+          <p>If you would like to join the organization please contact a board member or email <a href="mailto:info@brainhack.org">info@brainhack.org</a>.</p>
 
           <h2>Brainhack Publications</h2>
           <h3>Brainhack Proceedings</h3>
@@ -64,7 +64,7 @@ title: About
               <td></td>
             </tr>
             <tr>
-              <td>An early version of the Daydreaming app, an Android application for real-time assessment of usersŐ mind-wandering</td>
+              <td>An early version of the Daydreaming app, an Android application for real-time assessment of users' mind-wandering</td>
               <td>Brainhack 2013 Paris</td>
             </tr>
             <tr>
