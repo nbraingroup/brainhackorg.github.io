@@ -11,5 +11,5 @@ Nipype has the potential to be a great feature in XNAT. For this project, we wil
 
 ## Contact
 Dan Marcus  
-[dmarcus@wustl.edu](mailto: dmarcus@wustl.edu)
-[www.xnat.org](www.xnat.org)
+[dmarcus@wustl.edu](mailto: dmarcus@wustl.edu)  
+[www.xnat.org](www.xnat.org)  
