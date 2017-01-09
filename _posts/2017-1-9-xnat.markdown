@@ -8,6 +8,7 @@ description: For this project, we will add UI and infrastructure in XNAT to mana
 ---
 ## Summary
 Nipype has the potential to be a great feature in XNAT. For this project, we will add UI and infrastructure in XNAT to manage and run nipype pipelines. We will also add new capabilities in nipype to seamlessly transmit pipeline output (data files, provenance, etc) to XNAT and to update XNAT workflow tracking as pipelines execute.
+
 ## Contact
 Dan Marcus  
 [dmarcus@wustl.edu](mailto: dmarcus@wustl.edu)
