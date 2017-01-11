@@ -11,7 +11,9 @@ The Spinal Cord Toolbox (SCT) is a comprehensive software enabling the registrat
 
 We are currently working on an automatic segmentation method for the spinal cord gray matter on T2*-weighted images, based on the deformation (using ANTs) of a probabilistic map of the gray matter. The resulting deformation field will be applied to the MNI-Poly-AMU white matter atlas and its integrity will be checked. During Brainhack, we will continue the development of this method. We would also like to discuss new possibilities to assess the integrity of the spinal cord white matter atlas
 
+{% contentfor sidebar %}
 ## Contact  
 Benjamin De Leener  
 [benjamin.de-leener@polymtl.ca](mailto: benjamin.de-leener@polymtl.ca)  
 [www.neuro.polymtl.ca](www.neuro.polymtl.ca)  
+{% endcontentfor %}

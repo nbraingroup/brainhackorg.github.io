@@ -9,6 +9,8 @@ description: Create a collection of reusable javascript visualization widgets th
 ## Summary
 Create a collection of reusable javascript visualization widgets that can be used in [IPython](http://ipython.org/notebook.html) notebooks as well as in platforms like [Neurosynth](http://brainhack.org/javascript-visualization-widgets/neurosynth.org) and [Neurovault](http://brainhack.org/neurovault-org-ni-dm/).
 
+{% contentfor sidebar %}
 ## Contact
 Satra Ghosh
 [satra@mit.edu](mailto: satra@mit.edu)
+{% endcontentfor %}

@@ -13,6 +13,8 @@ The goal of this Hackathon project is to establish an algorithm that is capable 
 ## What can I do?
 The LEAD-toolbox is constantly being developed and our small team is looking for collaborators and people that are interested in DBS and imaging. It has not yet been publicly released but this step will follow soon. Since the toolbox is a comparably small project, it is open to all ideas and suggestions related to the topic of post-operative DBS-electrode localization and visualization. Anybody willing to contribute ideas to the project is very warmly welcome. A clear goal of the Hackathon will be to set up a (preliminary) pipeline of subcortical segmentation based on patient and atlas data and to make contact to people interested to the field of DBS. Therefore, this project is a quite methodological and thus open to anybody interested in intensity-based brain segmentation. Ideas that go beyond this proposal that are related to DBS and imaging are also very welcome.
 
+{% contentfor sidebar %}
 ## Contact  
 Andreas Horn  
 [andres.horn@charite.de](mailto: andres.horn@charite.de)  
+{% endcontentfor %}

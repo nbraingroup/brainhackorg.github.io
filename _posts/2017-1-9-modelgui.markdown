@@ -11,7 +11,9 @@ The ModelGUI Project is a Java-based, free, open source, platform-independent de
 
 ModelGUI has been used for generating publication figures and videos, quality control of CIVET and Freesurfer output, database manipulation of large datasets such as ADNI and NKI, transfer of data between volumes and surfaces, and brain atlasing. The project is hosted on Launchpad, and a wiki-based website is available for both end users and developers. It is intended as an open platform for researchers who like to code, as well as a stand-alone GUI for researchers with less interest in what’s under the hood. I am looking to interact with both these types, and am especially interested in brainstorming ways to integrate the software with other existing projects.
 
+{% contentfor sidebar %}
 ## Contact  
 Andrew Reid  
 [a.reid@fz-juelich.de](mailto: a.reid@fz-juelich.de)  
 [mgui.wikidot.com](mgui.wikidot.com)  
+{% endcontentfor %}

@@ -9,7 +9,9 @@ description:  NI-DM is a format of describing neuroimaging experiments results. 
 ## Summary
 NI-DM is a format of describing neuroimaging experiments results. NeuroVault is a database for storing unthresholded statistical maps. We will try to integrate it into NeuroVault as part of the upload and download API as well as the internal data model. This will set a common standard for third party applications to integrate with NeuroVault.
 
+{% contentfor sidebar %}
 ## Contact  
 Chris Gorgolewski  
 [krzysztof.gorgolewski@gmail.com](mailto: krzysztof.gorgolewski@gmail.com)  
 [http://neurovault.org](http://neurovault.org)  
+{% endcontentfor %}

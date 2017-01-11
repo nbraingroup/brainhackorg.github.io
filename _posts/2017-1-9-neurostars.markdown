@@ -13,9 +13,11 @@ As part of INCF’s Google Summer of Code, [neurostars.org](neurostars.org), a q
 
 A semantic backend will be prototyped so that all sites can potentially relate data from questions to publications, datasets or code.
 
+{% contentfor sidebar %}
 ## Contact
 Roman Valls Guimera  
 [roman@incf.org](mailto: roman@incf.org)  
 Paolo Coffetti  
 [coffetti@gmail.com](mailto: coffetti@gmail.com)  
 [http://neurostars.org](http://neurostars.org)  
+{% endcontentfor %}

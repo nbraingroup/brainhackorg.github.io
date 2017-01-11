@@ -4,7 +4,7 @@ title:  "15 Minute DSI Project"
 date:   2017-1-5 10:59:06
 categories: Project
 image: dsi.png
-description: The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France. 
+description: The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France.
 ---
 ## Summary
 The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France. Siemens MR sponsored/attended the meeting and brought along a 15min DSI data set using the latest advanced in MR technology: MAGNETOM Prisma 3T scanner with 80 mT/m gradients, 64 channel head/neck coil and slice accelerated (3x) diffusion imaging. Here we would like to make the data set available to the neuroimaging community with the aim of providing a state of the art reference data set for advanced visualization techniques. Included is a half q-space 257 direction DSI with 2mm isotropic resolution acquired in under 15 minutes using Kawin Setsompop’s blipped CAIPI simultaneous multislice approach to slice acceleration. Also included is a standard 1mm isotropic MPRAGE scan.
@@ -13,6 +13,8 @@ The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France. Si
 
 [https://www.nitrc.org/frs/download.php/6487/15min_dsi_project.tar.bzip2](https://www.nitrc.org/frs/download.php/6487/15min_dsi_project.tar.bzip2)
 
+{% contentfor sidebar %}
 ## Contact  
 Keith Heberlein  
 [keith.heberlein@siemens.com](mailto: keith.heberlein@siemens.com)  
+{% endcontentfor %}
