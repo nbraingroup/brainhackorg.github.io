@@ -141,7 +141,6 @@ header a {
 
 #container .inner img {
  /* CC this was causing problems with slider max-width: 100%; */
-
 }
 
 .top10{
@@ -644,8 +643,8 @@ footer a:hover {
 }
 
 .post-block img {
-	  width: 100%;
-    height: auto;
+	  width: 374px;
+    height: 248px;
 		object-fit: cover;
     overflow: hidden;
     vertical-align: middle;
