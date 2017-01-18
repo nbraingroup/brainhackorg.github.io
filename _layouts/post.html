@@ -14,12 +14,10 @@
     <link rel="stylesheet" href="/stylesheets/nivo-slider.css" type="text/css" media="screen" />
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
-
-
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <title>Brainhack Proceedings</title>
+    <title>Brainhack Projects</title>
   </head>
 
   <body>
@@ -67,21 +65,21 @@
       </nav>
     </div>
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
-
     <section id="main_content">
       <div class="container" id="pubtable">
         <h1>{{ page.title}}</h1>
-        <div class="col-md-4 sidebar"><img src="/assets/images/{{ page.image }}" class="post-fig"/>{% contentblock sidebar %}
+        <div class="col-md-4 sidebar">
+          <img src="/assets/images/{{ page.image }}" class="post-fig"/>{% contentblock sidebar %}
         </div>
         <div class="col-md-8 post-content">
           <h2>{{ page.description }}</h2>
-        {{ content }}
+          {{ content }}
         </div>
       </div>
     </section>
 
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
     <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
