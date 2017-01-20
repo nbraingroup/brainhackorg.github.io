@@ -12,8 +12,7 @@ To follow close on the ISMRM meeting in Milan, we are inviting participants to t
 ## What can I do?
 Join the fun ! Propose a project, or join one of the initiatives proposed on-site. The work themes are expected to touch on, but are not limited to: motion correction of low feature images, functional – structural registration, group space generation and atlasing, defining practices for existing tools, setting image quality requirements for spinal cord fMRI, DTI and other I’s, validation of statistical assumptions in the context of spinal cord fMRI, SEEP – BOLD bun fight, and damning or damned by physiological noise.
 
-{% contentfor sidebar %}
+
 ## Contact
 Paul Summers  
 [paul.summers@unimore.it](mailto: paul.summers@unimore.it)  
-{% endcontentfor %}

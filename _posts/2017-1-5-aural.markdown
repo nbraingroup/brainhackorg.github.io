@@ -9,9 +9,8 @@ description: This project aims at discovering this new types of representations 
 ## Summary
 What if there was a neuroanatomy not meant to be seen, but to be listened? Eyes and the ears have evolved to detect different types of data regularities. This project aims at discovering this new types of representations of brain imaging data using sound. You can already play (and fork!) with our web application that lets you hear the neocortex of different species: [http://siphonophore.org/auralbrain/](http://siphonophore.org/auralbrain/). Join us at BrainHack to help develop this new branch of neuroanatomy!
 
-{% contentfor sidebar %}
+
 ## Contact  
 Roberto Toro  
 [rto@pasteur.fr](mailto: rto@pasteur.fr)  
 [www.ura2182.cnrs-bellevue.fr/rtoro](www.ura2182.cnrs-bellevue.fr/rtoro)  
-{% endcontentfor %}

@@ -12,9 +12,8 @@ BrainBrowser is a set of open source, web-based, 3D visualization tools primaril
 Source code: [https://github.com/aces/brainbrowser](https://github.com/aces/brainbrowser)  
 API Docs: [https://brainbrowser.cbrain.mcgill.ca/docs/](https://brainbrowser.cbrain.mcgill.ca/docs/)  
 
-{% contentfor sidebar %}
+
 ## Contact  
 Tarek Sherif  
 [tsherif@gmail.com](mailto: tsherif@gmail.com)  
 [https://brainbrowser.cbrain.mcgill.ca](https://brainbrowser.cbrain.mcgill.ca)  
-{% endcontentfor %}

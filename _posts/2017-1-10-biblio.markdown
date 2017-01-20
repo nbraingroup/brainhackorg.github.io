@@ -9,8 +9,7 @@ description: Bibliometrics, which explores citation practices in the scientific 
 ## Summary
 Bibliometrics, which explores citation practices in the scientific literature, offers an empirical entry point for understanding research communities. By incorporating information about citations and referencing from the neuroimaging literature with reported brain coordinates, we can begin to investigate the relationship between subfields and reported brain areas. This project will incorporate citation information (articles referenced in a publication and those articles that cite it) into the existing [NeuroSynth](http://brainhack.org/neurosynth-org/) database. Further questions about the relation between networks derived from citation practices and other modalities of brain connectivity will also be able to be explored…
 
-{% contentfor sidebar %}
+
 ## Contact
 Daniel Margulies  
 [margulies@cbs.mpg.de](mailto: margulies@cbs.mpg.de)  
-{% endcontentfor %}

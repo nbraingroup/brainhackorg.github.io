@@ -9,8 +9,7 @@ description: We will be focusing on the development of a workstation study sched
 ## Summary
 We will be focusing on the development of a workstation study scheduler that will be hooked up to the existing DICOM anonymizer.
 
-{% contentfor sidebar %}
+
 ## Contact  
 Cecile Madjar  
 [cecile.madjar@gmail.com](mailto: cecile.madjar@gmail.com)  
-{% endcontentfor %}

@@ -13,9 +13,8 @@ We provide extensive functional brain imaging data from natural stimulation, a r
 
 We invite research groups and individuals to participate in a contest to kick-start a mass-collaboration on studying the brain in its natural environment. Among all submissions that are received until November 1 2014 a jury will determine the best contributions in terms of novelty of the approach, scientific rigor, and potential impact on future research and application. The best three contributions will receive an award (3000, 1500, and 500 Euro respectively) sponsored by the Center for Behavioral Brain Sciences, Magdeburg, Germany. For details, please see the website.
 
-{% contentfor sidebar %}
+
 ## Contact  
 Michael Hanke  
 [info@studyforrest.org](mailto: info@studyforrest.org)  
 [http://info@studyforrest.org](http://info@studyforrest.org)  
-{% endcontentfor %}

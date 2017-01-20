@@ -12,9 +12,8 @@ I plan to create a new Python library for downloading every publicly available d
 The nilearn package has some available download tools that are open license and should take care of many of the downloading issues. Pieces of other packages will be used to import and massage data formats to a common standard. A consistent format for documentation of the preprocessing and data collection parameters will be used, compatible with Sphinx.
 Finally, to minimize overhead for people adding new datasets, a set of simple tools for adding new datasets will be created.
 
-{% contentfor sidebar %}
+
 ## Contact  
 Ben Cipollini  
 [bcipolli@ucsd.edu](mailto: bcipolli@ucsd.edu)  
 [http://github.com/nidata/nidata/](http://github.com/nidata/nidata/)  
-{% endcontentfor %}

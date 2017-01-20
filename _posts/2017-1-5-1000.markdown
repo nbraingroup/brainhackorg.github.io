@@ -15,9 +15,8 @@ HOW CAN YOU GET INVOLVED?
 2. Suggest “common data elements” for future consortiums – we are actively working to find phenotypic data elements (i.e., measures, questionnaires) that can be promoted for usage in future consortiums
 3. Share your data!
 
-{% contentfor sidebar %}
+
 ## Contact  
 Michael P. Milham  
 [michael.milham@childmind.org](mailto: michael.milham@childmind.org)  
 [http://fcon_1000.projects.nitrc.org](http://fcon_1000.projects.nitrc.org)  
-{% endcontentfor %}

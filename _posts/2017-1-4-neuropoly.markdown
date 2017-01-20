@@ -11,9 +11,8 @@ The Spinal Cord Toolbox (SCT) is a comprehensive and powerful software enabling 
 
 During Brainhack, we will continue the development of this web-interface. We are interested in any advices and help from people experimented in web-interface development.
 
-{% contentfor sidebar %}
+
 ## Contact  
 Benjamin De Leener  
 [benjamin.de-leener@polymtl.ca](mailto: benjamin.de-leener@polymtl.ca)  
 [www.neuro.polymtl.ca](www.neuro.polymtl.ca)  
-{% endcontentfor %}

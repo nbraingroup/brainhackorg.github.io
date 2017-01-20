@@ -13,8 +13,7 @@ The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France. Si
 
 [https://www.nitrc.org/frs/download.php/6487/15min_dsi_project.tar.bzip2](https://www.nitrc.org/frs/download.php/6487/15min_dsi_project.tar.bzip2)
 
-{% contentfor sidebar %}
+
 ## Contact  
 Keith Heberlein  
 [keith.heberlein@siemens.com](mailto: keith.heberlein@siemens.com)  
-{% endcontentfor %}

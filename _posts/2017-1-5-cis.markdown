@@ -9,9 +9,8 @@ description: With this project we will look into how effect sizes and their CIS 
 ## Summary
 It is becoming obvious that the the black and white world of reporting effects as significant or not is causing serious problems with reproducibility in science. One of the ways to battle this is to report effect sizes and their confidence intervals. With this project we will look into how effect sizes and their CIS can be calculated for various analyses popular in neuroimaging as well as how to perform those calculations post-hoc with external tools such as NeuroVault.
 
-{% contentfor sidebar %}
+
 ## Contact  
 Chris Gorgolewski  
 [krzysztof.gorgolewski@gmail.com](mailto: krzysztof.gorgolewski@gmail.com)  
 [http://neurovault.org](http://neurovault.org)  
-{% endcontentfor %}

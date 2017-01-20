@@ -9,8 +9,7 @@ description: http://utopiadocs.com develop a PDF viewer particularly tuned for s
 ## Summary
 http://utopiadocs.com develop a PDF viewer particularly tuned for scientists. Among a variety of features there is a possibility to extend it with annotations from different sources. In my case I would like to create a plugin to annotate with information from neurosynth.
 
-{% contentfor sidebar %}
+
 ## Contact  
 Yaroslav Halchenko  
 [debian@onerussian.com](mailto: debian@onerussian.com)  
-{% endcontentfor %}

@@ -9,9 +9,8 @@ description: NeuroDebian provides a turnkey platform for bare metal or virtualiz
 ## Summary
 NeuroDebian provides a turnkey platform for bare metal or virtualized/cloud deployments. Possible hackathon projects could be: – packaging an interesting software for ultimate quick dissemination and integration with the largest software distribution (Debian) – enhancements to the neurodebian website, e.g. extraction of statistics (worldmap/timeline) for individual software packages/projects
 
-{% contentfor sidebar %}
+
 ## Contact  
 Yaroslav Halchenko  
 [debian@onerussian.com](mailto:debian@onerussian.com)  
 [http://neuro.debian.net](http://neuro.debian.net)  
-{% endcontentfor %}

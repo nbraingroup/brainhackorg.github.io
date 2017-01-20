@@ -19,9 +19,8 @@ We would like to invite Hackathon participants to build applications using NI-DM
 4. Provide import of NI-DM in NeuroVault (cf. [http://brainhack.org/neurovault-org-ni-dm/](http://brainhack.org/neurovault-org-ni-dm/))
 5. Create a viewer for NI-DM results.
 
-{% contentfor sidebar %}
+
 ## Contact  
 INCF Neuroimaging task force  
 [Neuroimaging-TF@incf.org](mailto: Neuroimaging-TF@incf.org)  
 [http://nidm.nidash.org/specs/](http://nidm.nidash.org/specs/)  
-{% endcontentfor %}

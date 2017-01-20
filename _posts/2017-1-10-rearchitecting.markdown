@@ -9,8 +9,7 @@ description: Bibliometrics, which explores citation practices in the scientific 
 ## Summary
 A brainstorming + proof of concept implementations for the next evolution of [Nipype](http://nipype.readthedocs.io/en/0.12.0/) (support for py3k, simpler semantic model, CI testing with testkraut, integration with biopython, automated feedback to underlying software developers).
 
-{% contentfor sidebar %}
+
 ## Contact
 Satra Ghosh  
 [satra@mit.edu](mailto: satra@mit.edu)  
-{% endcontentfor %}

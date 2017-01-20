@@ -20,9 +20,8 @@ At this year’s Hackathon, we will be pushing forward with new functionality in
 
 5. Calendar scheduler: python based scheduler to compliment our DICOM anonimyzer.
 
-{% contentfor sidebar %}
+
 ## Contact  
 Samir Das  
 [samir.das@mcgill.ca](mailto: samir.das@mcgill.ca)  
 [http://brainhack.org/loris/](http://brainhack.org/loris/)  
-{% endcontentfor %}

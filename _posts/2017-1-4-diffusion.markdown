@@ -11,9 +11,8 @@ During Montreal Brainhack EDT some of the Diffusion Imaging in Python (Dipy) dev
 
 Additionally, for people who already know how to code in Python we will work during the Hackathon to extend the segmentation and visualization capabilities of Dipy. Other ideas are welcome too. Join us and share your code and ideas!
 
-{% contentfor sidebar %}
+
 ## Contact  
 Eleftherios Garyfallidis  
 [garyfallidis@gmail.com](mailto: garyfallidis@gmail.com)  
 [dipy.org](dipy.org)  
-{% endcontentfor %}
