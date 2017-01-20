@@ -653,7 +653,6 @@ footer a:hover {
 .post-fig{
   width: 100%;
   height: auto;
-  object-fit: cover;
   float: left;
   padding-right: 15px;
 }
