@@ -3,7 +3,7 @@ layout: post
 title:  "Loris: Scheduler and ID Mapper"
 date:   2015-10-23 17:40:06
 categories: Project
-image: loris.png
+image: loris_cropped.png
 description: We will be focusing on the development of a workstation study scheduler that will be hooked up to the existing DICOM anonymizer.
 ---
 ## Summary

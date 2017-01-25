@@ -3,7 +3,7 @@ layout: post
 title:  "Dockerize Neurosynth"
 date:   2016-12-22 13:52
 categories: Project
-image: dockerize.png
+image: dockerize_cropped.png
 description: Getting a development environment for Neurosynth up and running is a pain at the moment (seehttp://github.com/neurosynth/neurosynth).
 ---
 ## Summary

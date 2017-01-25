@@ -3,7 +3,7 @@ layout: post
 title:  "Loris Modules"
 date:   2016-12-23 11:23:06
 categories: Project
-image: loris.png
+image: loris_cropped.png
 description: At this year’s Hackathon, we will be pushing forward with new functionality in LORIS, focusing specifically on our Imaging Uploader and Genomics module.
 ---
 Summary

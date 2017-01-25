@@ -3,7 +3,7 @@ layout: post
 title:  "The Modelgui Project"
 date:   2017-1-9 10:59:06
 categories: Project
-image: modelgui.png
+image: modelgui_cropped.png
 description: The ModelGUI Project is a Java-based, free, open source, platform-independent desktop GUI application for reading/writing, organizing, manipulating, and visualizing neuroscientific datasets.
 ---
 ## Summary

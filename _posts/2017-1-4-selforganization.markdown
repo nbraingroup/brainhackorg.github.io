@@ -3,7 +3,7 @@ layout: post
 title:  "Self-Organization and Brain Function"
 date:   2017-1-4 10:59:06
 categories: Project
-image: selforganization.jpeg
+image: selforganization_cropped.jpeg
 description: In this project a simple mathematical model for self-organization is investigated.
 ---
 ## Summary

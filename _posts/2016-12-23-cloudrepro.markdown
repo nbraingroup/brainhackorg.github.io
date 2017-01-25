@@ -3,7 +3,7 @@ layout: post
 title:  "Cloud Reproducibility Challenge"
 date:   2016-12-23 11:23:06
 categories: Project
-image: cloudrepro.jpg
+image: cloudrepro_cropped.jpg
 description: The use of standardizable computing environments offers a promise for enhancing the reproducibility of neuroimaging computational workflows.
 ---
 ## Summary

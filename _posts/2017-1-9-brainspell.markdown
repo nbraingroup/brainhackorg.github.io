@@ -3,7 +3,7 @@ layout: post
 title:  "Brainspell Tagging Sprint"
 date:   2017-1-9 10:59:06
 categories: Project
-image: brainspell.png
+image: brainspell_cropped.png
 description: More than 1 neuroimaging paper is published every hour. But we can keep up with the literature if we do it all together!
 ---
 ## Summary

@@ -3,7 +3,7 @@ layout: post
 title:  "DueCredit"
 date:   2016-12-23 11:15:06
 categories: Project
-image: duecredit.png
+image: duecredit_cropped.png
 description: Is a project in conceptualization state.
 ---
 ## Summary

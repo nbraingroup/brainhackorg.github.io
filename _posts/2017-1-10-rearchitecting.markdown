@@ -3,7 +3,7 @@ layout: post
 title:  "Re-Architecting Nipype"
 date:   2017-1-10 10:59:06
 categories: Project
-image: rearch.png
+image: rearch_cropped.png
 description: Bibliometrics, which explores citation practices in the scientific literature, offers an empirical entry point for understanding research communities.
 ---
 ## Summary

@@ -3,7 +3,7 @@ layout: post
 title:  "Interactive IPython Notebooks for Brain Imaging Analysis"
 date:   2017-1-10 10:59:06
 categories: Project
-image: ipython.png
+image: ipython_cropped.png
 description: This project will build on a starting set of IPython notebooks to replace BIPS
 ---
 ## Summary

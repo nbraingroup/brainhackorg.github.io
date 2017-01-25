@@ -3,7 +3,7 @@ layout: post
 title:  "Brainbrowser"
 date:   2017-1-5 10:59:06
 categories: Project
-image: brainbrowser.png
+image: brainbrowser_cropped.png
 description: BrainBrowser is a set of open source, web-based, 3D visualization tools primarily targetting neuroimaging.
 ---
 ## Summary

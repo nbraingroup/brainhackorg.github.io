@@ -3,7 +3,7 @@ layout: post
 title:  "Aural Neuroanatomy"
 date:   2017-1-5 10:59:06
 categories: Project
-image: aural.png
+image: aural_cropped.png
 description: This project aims at discovering this new types of representations of brain imaging data using sound.
 ---
 ## Summary

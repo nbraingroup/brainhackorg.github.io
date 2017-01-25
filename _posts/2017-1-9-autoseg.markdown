@@ -3,7 +3,7 @@ layout: post
 title:  "Autoseg SIN"
 date:   2017-1-9 10:59:06
 categories: Project
-image: autoseg.png
+image: autoseg_cropped.png
 description:  NI-DM is a format of describing neuroimaging experiments results. NeuroVault is a database for storing unthresholded statistical maps.
 ---
 ## Summary

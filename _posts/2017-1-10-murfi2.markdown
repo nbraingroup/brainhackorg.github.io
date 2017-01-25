@@ -3,7 +3,7 @@ layout: post
 title:  "Extending MURFI2 - An Opensource Real Time fMRI Platform"
 date:   2017-1-10 10:59:06
 categories: Project
-image: murfi2.jpg
+image: murfi2_cropped.jpg
 description: This project will extend this protocol to be supported in GE and Philips scanners.
 ---
 ## Summary

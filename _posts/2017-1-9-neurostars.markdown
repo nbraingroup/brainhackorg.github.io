@@ -3,7 +3,7 @@ layout: post
 title:  "Neurostars.org"
 date:   2017-1-9 10:59:06
 categories: Project
-image: neurostars.png
+image: neurostars_cropped.png
 description: As part of INCF’s Google Summer of Code, neurostars.org, a question and answer site will incorporate new features.
 ---
 ## Summary

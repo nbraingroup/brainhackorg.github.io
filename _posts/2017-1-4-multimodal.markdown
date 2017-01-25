@@ -3,7 +3,7 @@ layout: post
 title:  "Multimodal Sturctural MRI Analysis"
 date:   2017-1-4 10:59:06
 categories: Project
-image: multimodal.png
+image: multimodal_cropped.png
 description: Our goal is to find ways to use the complementary information in multimodal structural MRI for more powerful and interesting analyses.
 ---
 ## Summary

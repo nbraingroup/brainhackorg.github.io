@@ -3,7 +3,7 @@ layout: post
 title:  "Flasking Neurosynth"
 date:   2017-1-5 10:59:06
 categories: Project
-image: flasking.png
+image: flasking_cropped.png
 description: The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France.
 ---
 ## Summary

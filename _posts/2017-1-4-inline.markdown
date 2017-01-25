@@ -3,7 +3,7 @@ layout: post
 title:  "Inline fMRI QC"
 date:   2017-1-4 10:59:06
 categories: Project
-image: inline.png
+image: inline_cropped.png
 description: In collaboration with Siemens MR, we are developing a tool for “inline” monitoring of fMRI quality
 ---
 ## Summary

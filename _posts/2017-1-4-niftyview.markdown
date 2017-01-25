@@ -3,7 +3,7 @@ layout: post
 title:  "Niftview"
 date:   2017-1-4 10:59:06
 categories: Project
-image: niftyview.png
+image: niftyview_cropped.png
 description: NiftyView is a web-based application for viewing and analyzing medical images.
 ---
 ## Summary

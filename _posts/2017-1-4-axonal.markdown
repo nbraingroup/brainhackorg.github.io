@@ -3,7 +3,7 @@ layout: post
 title:  "Random Axonal Growth"
 date:   2017-1-4 10:59:06
 categories: Project
-image: axonal.png
+image: axonal_cropped.png
 description: Implementation of random axonal growth to measure the connection length and simulate the growth.
 ---
 ## Summary

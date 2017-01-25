@@ -3,7 +3,7 @@ layout: post
 title:  "Development of a Web-Interface Processing Spinal Cord MR Images"
 date:   2017-1-4 10:59:06
 categories: Project
-image: neuropoly.png
+image: neuropoly_cropped.png
 description: This toolbox allows extraction of multi-parametric MRI data as well as large-group and multi-center studies.
 ---
 ## Summary
