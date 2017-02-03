@@ -7,7 +7,7 @@ image: brainhackglobal.png
 description: Synchronized Brainhack Events in 40 cities, in 15 countries, on 4 continets.
 ---
 ## Summary
-You are invited to attend [Brainhack Global 2017](http://events.brainhack.org) at one of 40 regional events in 15 countries during March 2 - 5, 2017.
+You are invited to attend [Brainhack Global 2017](http://events.brainhack.org/global2017) at one of 40 regional events in 15 countries during March 2 - 5, 2017.
 
 Brainhack [http://events.brainhack.org](http://events.brainhack.org) is a unique conference that convenes researchers from myriad disciplines to work together on innovative projects related to neuroscience. Brainhack Global will host several simultaneous to build a critical mass for the regional Brainhack movement and provide opportunities for inter-Brainhack collaboration. Local events will be connected by videoconference to expand collaborative opportunities so that smaller sites can plug into the content and energy generated at larger sites.
 
