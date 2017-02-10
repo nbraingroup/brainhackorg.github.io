@@ -18,10 +18,10 @@ title: Homepage
                 <img src="./assets/images/{{ post.image }}"  alt="{{ post.title }}" title="{{ post.title }}" /><span class="overlay"></span>
     				</a>
 
-            {% if post.category %}
-    				<div class="category"><ul class="post-categories">
-    	          <li><a href="http://brainhack.org/categories/brainhack-global-2017/" rel="category tag">{{ post.category }}</a></li></ul>
-            </div> <!-- end .category -->
+            {% if post.categories %}
+          				<div class="category"><ul class="post-categories">
+          	          <li><a href="http://brainhack.org/categories/brainhack-global-2017/" rel="category tag">{{ post.categories }}</a></li></ul>
+                  </div> <!-- end .category -->
             {% endif %}
 
     				<span class="month">Jan<span class="date">16</span></span>
