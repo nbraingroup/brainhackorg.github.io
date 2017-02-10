@@ -3,6 +3,13 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/masonry.pkgd.min.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/javascripts/cufon-yui.js"></script>
+    <script type="text/javascript" src="/javascripts/League_Gothic_400.font.js"></script>
+
     <link rel="stylesheet" href="/stylesheets/bootstrap.min.css" type="text/css" media="screen" />
     <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/stylesheets/octicons.css" media="screen" />
@@ -11,28 +18,32 @@
     <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
     <link rel="stylesheet" href="/stylesheets/bib-publication-list.css"/>
     <link rel="stylesheet" href="/stylesheets/default/default.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href="/stylesheets/nivo-slider.css" type="text/css" media="screen" />
+    <!-- <link rel="stylesheet" href="/stylesheets/nivo-slider.css" type="text/css" media="screen" /> -->
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-
-
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>Brainhack Proceedings</title>
+    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
+    <script type="text/javascript">
+     <!-- //<![CDATA[ -->
+      jQuery.noConflict();
+      jQuery(document).ready(function(){
+        Cufon.replace('ul.nav a',{textShadow:'1px 1px 1px #000', hover: { textShadow: '1px 1px 1px #000' }})('h3.title',{textShadow:'1px 1px 1px #000'})('.wp-pagenavi',{textShadow:'1px 1px 1px rgba(0,0,0,0.7)'});
+        Cufon.replace('#featured h2.title')('div.category a',{textShadow:'1px 1px 1px rgba(0,0,0,0.3)'})('span.month',{textShadow:'1px 2px 4px rgba(0,0,0,0.3)'})('h2.title a')('p.postinfo')('h3.widgettitle, #tabbed-area li a',{textShadow:'1px 1px 1px #fff'})('h3.infotitle, h1.title, .blog-title, .post-meta, h3#comments, span.fn, h3#reply-title span');
+        Cufon.now();
+      });
+    </script>
+    <title>Brainhack</title>
   </head>
 
   <body>
-    <div class="container" >
-      <img src="/images/brainhack_header.png" alt="Logo" id="logo">
+    <div class="logo" >
+      <img src="/images/brainhack_header.png" id="logo">
       <nav class="navbar navbar-bhack">
         <div class="container-fluid">
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav">
-              <li><a href="/index.html">Home</a></li>
+              <li><a href="/index.html">+SUBMIT A PROJECT</a></li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Events<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PAST AND FUTURE EVENTS<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="http://brainhack.org/brainhackparis/" target="_blank">Brainhack@Paris 2016</a></li>
                   <li><a href="http://events.brainhack.org/OHBM2016" target="_blank">OHBM Hackathon 2016 (Lausanne)</a></li>
@@ -53,22 +64,24 @@
                 </ul>
               </li>
               <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Proceedings<span class="caret"></span></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PROCEEDINGS<span class="caret"></span></a>
                 <ul class="dropdown-menu">
                   <li><a href="proceedings_2016.html">Submit a report</a></li>
                   <li role="separator" class="divider"></li>
                   <li><a href="proceedings_2015.html">2015</a></li>
                 </ul>
               </li>
-              <li><a href="/about.html">About</a></li>
+              <li><a href="https://brainhack-slack-invite.herokuapp.com/">JOIN BRAINHACK SLACK CHANNEL</a></li>
+              <li><a href="/about.html">ABOUT</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
       </nav>
     </div>
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+    <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+
+
 
     <section id="main_content">
         {{ content }}
