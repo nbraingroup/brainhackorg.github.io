@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Document NIAK"
-date:   2017-1-4 10:59:06
-categories: Project
-image: documentniak.png
+date:   2017-1-11 10:23:06
+categories: Brainhack EDT Montreal
+image: angelniak.png
 description: The Neuroimaging Analysis Kit (NIAK) is a software library for the data mining of large fMRI datasets.
 ---
 ## Summary

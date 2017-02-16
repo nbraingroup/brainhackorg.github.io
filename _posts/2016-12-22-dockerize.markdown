@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Dockerize Neurosynth"
-date:   2016-12-22 13:52
-categories: Project
-image: dockerize_cropped.png
+title:  "Dockerize Neurosynth "
+date:   2017-1-11 10:40:06
+categories: OHBM Hackathon 2015
+image: ns_pic-222x180.png
 description: Getting a development environment for Neurosynth up and running is a pain at the moment (seehttp://github.com/neurosynth/neurosynth).
 ---
 ## Summary

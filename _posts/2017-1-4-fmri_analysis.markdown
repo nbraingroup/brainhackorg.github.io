@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "fMRI Analysis with CBRAIN"
-date:   2017-1-4 10:59:06
-categories: Project
-image: fmri_analysis_cropped.jpg
+date:   2017-1-11 10:36:06
+categories: OHBM Hackathon 2015
+image: fninf-08-00054-g007-222x180.jpg
 description: CBRAIN is an open-source, web-based, distributed computing platform for collaborative neuroimaging.
 ---
 ## Summary

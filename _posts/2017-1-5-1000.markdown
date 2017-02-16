@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "1000 Functional Connectomes Project/ INDI: Future Consortiums"
-date:   2017-1-5 10:59:06
-categories: Project
-image: 1000_cropped.jpg
+date:   2017-1-1 10:11:06
+categories: Hackathon 2014
+image: INDI_rgb-222x180.jpg
 description: The 1000 Functional Connectomes Project and its International Neuroimaging Data-sharing Initiative (INDI) actively promote the formation of grassroots open data-sharing initiatives in the neuroimaging community.
 ---
 ## Summary

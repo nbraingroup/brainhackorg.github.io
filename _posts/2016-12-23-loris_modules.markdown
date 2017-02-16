@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Loris Modules"
-date:   2016-12-23 11:23:06
-categories: Project
-image: loris_cropped.png
+date:   2017-1-11 10:37:06
+categories: OHBM Hackathon 2015
+image: LORIS_logo_v2_grey_clear-222x180.png
 description: At this year’s Hackathon, we will be pushing forward with new functionality in LORIS, focusing specifically on our Imaging Uploader and Genomics module.
 ---
 Summary

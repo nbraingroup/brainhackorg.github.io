@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Neurovault.org + NI-DM"
-date:   2017-1-9 10:59:06
-categories: Project
-image: neurovault_cropped.jpg
+date:   2017-1-11 10:07:06
+categories: Hackathon 2014
+image: 22vault-222x180.jpg
 description:  NI-DM is a format of describing neuroimaging experiments results. NeuroVault is a database for storing unthresholded statistical maps.
 ---
 ## Summary

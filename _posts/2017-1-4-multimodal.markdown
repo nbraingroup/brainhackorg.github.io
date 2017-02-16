@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Multimodal Sturctural MRI Analysis"
-date:   2017-1-4 10:59:06
-categories: Project
-image: multimodal_cropped.png
+date:   2017-1-11 10:26:07
+categories: Brainhack EDT Montreal
+image: modalitiesimage-466x180.png
+big: 1
 description: Our goal is to find ways to use the complementary information in multimodal structural MRI for more powerful and interesting analyses.
 ---
 ## Summary

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Automatic Spinal Cord Centerline Extraction on MR Images"
-date:   2015-10-23 17:40:06
-categories: Project
-image: automaticspinalcord_cropped.png
+date:   2017-1-11 10:42:06
+categories: Brainhack MTL 2015
+image: 2bbis-222x180.png
 description: The Spinal Cord Toolbox is the first software for processing multiparametric MRI of the spinal cord. The primary step is the automatic segmentation of the spinal cord, and is currently performed by PropSeg.
 ---
 ## Summary

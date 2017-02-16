@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Integrating NIDM and Research Objects (RO)"
-date:   2017-1-10 10:59:06
-categories: Project Data
-image: ro.jpeg
-big: 1
+date:   2017-1-11 9:56:06
+categories: Hackathon 2014
+image: rohub-222x136.jpeg
 description: The goal of this project will be to reconcile these efforts into an interoperable model and take advantage of ROHub, a platform for collecting, tracking and disseminating RO.
 ---
 ## Summary

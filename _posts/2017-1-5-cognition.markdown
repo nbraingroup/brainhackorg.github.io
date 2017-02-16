@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Real-Life Cognition Contest"
-date:   2017-1-5 10:59:06
-categories: Project
-image: cognition.png
+date:   2017-1-11 10:13:06
+categories: Hackathon 2014
+image: hackathon_logo.png
 description: We invite research groups and individuals to participate in a contest to kick-start a mass-collaboration on studying the brain in its natural environment.
 ---
 ## Summary

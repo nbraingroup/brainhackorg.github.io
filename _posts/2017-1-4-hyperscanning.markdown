@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Hyperscanning Ultimatum"
-date:   2017-1-4 10:59:06
-categories: Project
-image: hyperscanning_cropped.png
+date:   2017-1-11 10:29:06
+categories: Brainhack EDT Washinton DC
+image: Hyperscanning-logo-222x180.png
 description: Game theory or the study of strategic decision making has been used to study and explain a wide variety of human and animal behaviors.
 ---
 ## Summary

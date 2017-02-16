@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "MRI Quality Control"
-date:   2017-1-9 10:59:06
-categories: Project
-image: qualitcontrol_cropped.jpeg
+date:   2017-1-11 10:08:06
+categories: Hackathon 2014
+image: n-doors-lighting-guality01-222x180.jpeg
 description: Currently it supports plotting information about tSNR, coregistration and motion.
 ---
 ## Summary

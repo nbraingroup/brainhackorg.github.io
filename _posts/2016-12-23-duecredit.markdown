@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "DueCredit"
-date:   2016-12-23 11:15:06
+date:   2017-11-11 10:39:06
 categories: Project
-image: duecredit_cropped.png
+image: CSU-2-222x180.png
 description: Is a project in conceptualization state.
 ---
 ## Summary

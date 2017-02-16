@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "NI-DM Apps"
-date:   2017-1-5 10:59:06
-categories: Project
-image: ni-dm_cropped.png
+date:   2017-1-11 10:14:06
+categories: Hackathon 2014
+image: nidm-apps-222x180.png
 description: The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France.
 ---
 ## Summary

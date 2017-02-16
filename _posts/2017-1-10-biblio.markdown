@@ -3,7 +3,7 @@ layout: post
 title:  "Neurosynth Bibliometrics"
 date:   2017-1-10 10:59:06
 categories: Project
-image: biblio_cropped.png
+image: journal_coCitation-222x180.png
 description: Bibliometrics, which explores citation practices in the scientific literature, offers an empirical entry point for understanding research communities.
 ---
 ## Summary

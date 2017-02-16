@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Alzheimer's Disease Big Data Deam 8.5 Challenge #1"
-date:   2017-1-5 10:59:06
-categories: Project
-image: alzheimers.png
+date:   2017-1-11 10:15:06
+categories: Hackathon 2014
+image: AD_banner-3-_-222x180.png
 description: The goal of the Alzheimer’s Disease Big Data DREAM8.5 Challenge "#1" (AD#1) is to apply an open science approach
 ---
 ## Summary

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Data Sharing: Making it Work"
-date:   2017-1-9 10:59:06
-categories: Project
-image: datasharing_cropped.png
+date:   2017-1-11 10:03:06
+categories: Hackathon 2014
+image: sharing-222x180.png
 description: The purpose of this workshop is to bring together key constituents in neuroimaging data.
 ---
 ## Summary

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Spinalcordhack 2014"
-date:   2017-1-9 10:59:06
-categories: Project
-image: spinalcord_cropped.jpg
+date:   2017-1-11 10:02:06
+categories: SpinalCordHack 2014
+image: Screen-shot-2012-09-20-at-9.54.57-PM-222x180.jpg
 description: This half day event will take place near the conference venue on Friday May 16th, 2014 with the support of the International Spinal Research Trust.
 ---
 ## Summary

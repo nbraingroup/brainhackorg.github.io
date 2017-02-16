@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Pixel Shader Livecoding"
-date:   2017-1-5 10:59:06
-categories: Project
-image: pixel_cropped.png
+date:   2017-1-1 10:11:06
+categories: Hackathon 2014
+image: Screen-Shot-2014-05-07-at-11.39.42-PM-1-222x180.png
 description: I’ll show preliminary sketches from Zeitgeber, an interactive video projection installation going up in Mumbai next year and talk about how shader livecoding figures into the artistic process.
 ---
 ## Summary
