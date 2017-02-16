@@ -16,7 +16,7 @@ title: Brainhack Proceedings 2015
                 <center><a href="http://gigadb.org/dataset/100215" target="_blank"><img src="/images/gigadb.jpg"></a></center>                    
             </div> -->
             <div class="col-lg-5 col-lg-offset-2 col-md-5 col-md-offset-2 col-sm-5 col-sm-offset-2 col-xs-10 col-xs-offset-1">
-                <center><a href="http://www.incf.org" target="_blank"><img src="/images/incf_logo.png"></a></center>                    
+                <center><a href="http://www.incf.org" target="_blank"><img src="/assets/images/incf_logo.png"></a></center>                    
             </div>
       </div>      
       </div>
