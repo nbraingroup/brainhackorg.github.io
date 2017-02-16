@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Nipype for XNAT"
+date:   2017-1-11 10:04:06
+categories: Hackathon 2014
+image: XNAT_logo_blue_bkgd.png
+description: For this project, we will add UI and infrastructure in XNAT to manage and run nipype pipelines.
+---
+## Summary
+Nipype has the potential to be a great feature in XNAT. For this project, we will add UI and infrastructure in XNAT to manage and run nipype pipelines. We will also add new capabilities in nipype to seamlessly transmit pipeline output (data files, provenance, etc) to XNAT and to update XNAT workflow tracking as pipelines execute.
+
+
+## Contact
+Dan Marcus  
+[dmarcus@wustl.edu](mailto: dmarcus@wustl.edu)  
+[www.xnat.org](www.xnat.org)  
