@@ -3,6 +3,10 @@ layout: page
 title: Homepage
 ---
 
+
+<p>Enter a search term below to filter the projects and resources:<p>
+<p><input type="text" class="quicksearch" placeholder="Search" /></p>
+
 <div class="grid">
  {% assign num = 0 %}
   {% for post in site.posts %}
@@ -27,7 +31,7 @@ title: Homepage
     				<span class="month">Jan<span class="date">16</span></span>
   			</div><!-- end .entry_thumbnail -->
 
-  			<h2 class="title"><a href="{{ post.url | prepend: site.baseurl }}">
+  			<h2 class="title featured"><a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.big == 1 %}
             {{ post.title | truncate:45 }}
         {% else %}
@@ -60,8 +64,39 @@ title: Homepage
 </div>
 
 <script type="text/javascript">
-  jQuery('.grid').masonry({
-    itemSelector: '.entry',
-    columnWidth: 122,
-    animate: true});
-    </script>
+// quick search regex
+var qsRegex;
+// init Isotope
+var $grid = jQuery('.prj-grid').isotope({
+  itemSelector: '.prj-grid-item',
+  layoutMode: 'fitRows',
+  filter: function() {
+    return qsRegex ? jQuery(this).text().match( qsRegex ) : true;
+  }
+});
+// use value of search field to filter
+var $quicksearch = jQuery('.quicksearch').keyup( debounce( function() {
+  qsRegex = new RegExp( $quicksearch.val(), 'gi' );
+  $grid.isotope();
+}, 200 ) );
+// debounce so filtering doesn't happen every millisecond
+function debounce( fn, threshold ) {
+  var timeout;
+  return function debounced() {
+    if ( timeout ) {
+      clearTimeout( timeout );
+    }
+    function delayed() {
+      fn();
+      timeout = null;
+    }
+    timeout = setTimeout( delayed, threshold || 100 );
+  }
+}
+  jQuery('.map').click(function() {
+    jQuery('.map iframe').css("pointer-events", "auto");
+  });
+  jQuery(".map").mouseleave(function() {
+    jQuery('.map iframe').css("pointer-events", "none");
+  });
+</script>

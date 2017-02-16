@@ -707,7 +707,7 @@ footer a:hover {
 		position: relative;
 		margin: auto;
 	  /*background: #EEE;*/
-	  width: 90%;
+	  /*width: 90%;*/
 	}
 
 #content
@@ -718,7 +718,9 @@ footer a:hover {
 .entry
 {
     position: relative; float: left;
-    margin: 0 0 24px;
+    margin-bottom: 24px;
+		margin-left: 0px;
+		margin-right: 8px;
     border: 1px solid #fff;
     background-color: #fff;
 		-webkit-box-shadow: 3px 3px 3px rgba(0, 0, 0, .6);
