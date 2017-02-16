@@ -35,7 +35,7 @@ title: Homepage
         {% if post.big == 1 %}
             {{ post.title | truncate:45 }}
         {% else %}
-            {{ post.title | truncate:20 }}
+            {{ post.title | truncate:22 }}
         {% endif %}
         </a></h2>
   			<p class="postinfo">posted by <a href="http://brainhack.org/author/cameron-craddock/" title="Posts by cameron.craddock" rel="author">cameron.craddock</a></p>
@@ -67,8 +67,8 @@ title: Homepage
 // quick search regex
 var qsRegex;
 // init Isotope
-var $grid = jQuery('.prj-grid').isotope({
-  itemSelector: '.prj-grid-item',
+var $grid = jQuery('.grid').isotope({
+  itemSelector: '.entry',
   layoutMode: 'fitRows',
   filter: function() {
     return qsRegex ? jQuery(this).text().match( qsRegex ) : true;
@@ -93,10 +93,5 @@ function debounce( fn, threshold ) {
     timeout = setTimeout( delayed, threshold || 100 );
   }
 }
-  jQuery('.map').click(function() {
-    jQuery('.map iframe').css("pointer-events", "auto");
-  });
-  jQuery(".map").mouseleave(function() {
-    jQuery('.map iframe').css("pointer-events", "none");
-  });
+
 </script>

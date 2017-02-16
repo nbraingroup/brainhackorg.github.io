@@ -148,6 +148,11 @@ header a {
 	background: #FFF;
 }
 
+.container-bhack{
+	width:90%;
+	margin:auto;
+}
+
 #container .inner img {
  /* CC this was causing problems with slider max-width: 100%; */
 }
@@ -450,7 +455,9 @@ pre code {
 }
 
 #logo{
-	margin-left: 65px;
+	margin-left: 0px;
+	margin-top: 50px;
+	max-width:100%;
 }
 
 #dev7link {
@@ -574,6 +581,10 @@ blockquote {
 ul li {
   list-style: disc inside;
   padding-left: 20px;
+}
+
+.nopad-left {
+  padding-left: 0px;
 }
 
 ol li {
@@ -719,7 +730,7 @@ footer a:hover {
 {
     position: relative; float: left;
     margin-bottom: 24px;
-		margin-left: 0px;
+		margin-left: 8px;
 		margin-right: 8px;
     border: 1px solid #fff;
     background-color: #fff;
@@ -830,7 +841,11 @@ h2.title
 {
     position: absolute;
 		top: 10px;
-		padding: 0 15px;
+		padding-top: 0px;
+		padding-left: 0px;
+		padding-right: 0px;
+		padding-bottom: 0px;
+
 }
 h2.title a
 {font-size: 30px;
@@ -839,6 +854,13 @@ h2.title a
 		text-transform: uppercase;
 		color: #9a1d0d;
 }
+
+.truncate {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 p.postinfo
 {font-size: 0;
 
