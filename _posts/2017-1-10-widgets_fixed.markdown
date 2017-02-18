@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Javascript Visualization Widgets"
+date:   2017-1-11 9:54:06
+project_categories: Hackathon 2014
+image: images-222x173.jpeg
+description: Create a collection of reusable javascript visualization widgets that can be used in IPython notebooks as well as in platforms like Neurosynth and Neurovault.
+---
+## Summary
+Create a collection of reusable javascript visualization widgets that can be used in [IPython](http://ipython.org/notebook.html) notebooks as well as in platforms like [Neurosynth](http://brainhack.org/javascript-visualization-widgets/neurosynth.org) and [Neurovault](http://brainhack.org/neurovault-org-ni-dm/).
+
+
+## Contact
+Satra Ghosh
+[satra@mit.edu](mailto: satra@mit.edu)

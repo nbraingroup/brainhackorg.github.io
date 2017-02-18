@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Interactive IPython Notebooks for Brain Imaging Analysis"
+date:   2017-1-11 9:58:06
+project_categories: Hackathon 2014
+image: ipython1-222x180.png
+description: This project will build on a starting set of IPython notebooks to replace BIPS
+---
+## Summary
+This project will build on a starting set of [IPython](http://ipython.org/notebook.html) notebooks to replace [BIPS](https://github.com/INCF/BrainImagingPipelines) as a environment for scalable, reproducible analysis and interactive exploration of data. The project will also ensure easy interoperability with data submission sites such as [Neurovault](http://brainhack.org/neurovault-org-ni-dm/) and synthesis platforms such as [Neurosynth](http://brainhack.org/neurosynth-org/).
+
+
+## Contact
+Satra Ghosh  
+[satra@mit.edu](mailto: satra@mit.edu)  

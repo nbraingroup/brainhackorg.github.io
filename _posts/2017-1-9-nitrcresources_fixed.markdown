@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "MRI Quality Control"
-date:   2017-1-9 10:59:06
-categories: Project
-image: nitrcresources.png
+date:   2017-1-11 10:05:06
+project_categories: Hackathon 2014
+image: NITRC-TRIAD240pixwidth-222x180.png
 description: Currently it supports plotting information about tSNR, coregistration and motion.
 ---
 ## Summary
