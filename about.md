@@ -21,12 +21,13 @@ These collaborative workshops combine elements of Hackathons and Unconferences, 
 ## Who is Brainhack.org?
 
 ### Board
-The board is currently made up of the founders of Brainhack. The board meets quarterly to plan future Brainhack events and discuss other business.  
+The board meets quarterly to plan future Brainhack events and discuss other business.  
 
 <ul>
-  <li>Cameron Craddock, PhD - Director</li>
-  <li>Daniel Margulies, Dr. rer. nat.</li>
+  <li>Cameron Craddock, PhD - Chair</li>
   <li>Pierre Bellec, PhD</li>
+  <li>Sook-Lei Liew, PhD</li>
+  <li>Daniel Margulies, Dr. rer. nat.</li>
   <li>Nolan Nichols, PhD</li>
   <li>Tal Yarkoni, PhD</li>
 </ul>
