@@ -2,7 +2,7 @@
 layout: post
 title:  "Cloud Reproducibility Challenge"
 date:   2017-1-11 10:38:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: coffee-744154_1280-222x180.jpg
 description: The use of standardizable computing environments offers a promise for enhancing the reproducibility of neuroimaging computational workflows.
 ---

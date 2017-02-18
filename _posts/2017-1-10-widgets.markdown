@@ -2,7 +2,7 @@
 layout: post
 title:  "Javascript Visualization Widgets"
 date:   2017-1-11 9:54:06
-categories: Hackathon 2014
+project_categories: Hackathon 2014
 image: images-222x173.jpeg
 description: Create a collection of reusable javascript visualization widgets that can be used in IPython notebooks as well as in platforms like Neurosynth and Neurovault.
 ---

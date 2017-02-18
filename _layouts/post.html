@@ -3,36 +3,37 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/isotope.pkgd.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
+
     <link rel="stylesheet" href="/stylesheets/bootstrap.min.css" type="text/css" media="screen" />
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/stylesheets/octicons.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
     <link rel="stylesheet" href="/stylesheets/bib-publication-list.css"/>
     <link rel="stylesheet" href="/stylesheets/default/default.css" type="text/css" media="screen" />
-    <link rel="stylesheet" href="/stylesheets/nivo-slider.css" type="text/css" media="screen" />
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>Brainhack Projects</title>
+    <title>Brainhack</title>
+
   </head>
 
   <body>
-    <div class="logo" >
+    <div class="container-bhack" >
       <img src="/assets/images/brainhack_header.png" id="logo">
       <nav class="navbar navbar-bhack">
-        <div class="container-fluid">
+        <!-- <div class="container-fluid"> -->
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-            <ul class="nav navbar-nav">
-              <li><a href="/index.html">HOME</a></li>
+            <ul class="nav navbar-nav nopad-left">
+              <li class="nopad-left"><a href="/index.html">HOME</a></li>
+              <li class="nopad-left"><a href="/submission.html">+SUBMIT A PROJECT</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PAST AND FUTURE EVENTS<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-
                   <li><a href="http://events.brainhack.org/global2017" target="_blank">Brainhack Global 2017</a></li>
                   <li><a href="http://brainhackghent.wixsite.com/brainhackghent" target="_blank">Brainhack Ghent 2017</a></li>
                   <li role="separator" class="divider"></li>
@@ -66,25 +67,27 @@
               <li><a href="/about.html">ABOUT</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
+        <!-- </div><!-- /.container-fluid -->
       </nav>
     </div>
 
     <section id="main_content">
-      <div class="container" id="pubtable">
-        <h1>{{ page.title}}</h1>
-        <div class="col-md-4">
-          <img src="/assets/images/{{ page.image }}" class="post-fig"/>
-        </div>
-        <div class="col-md-8 post-content">
-          <h2>{{ page.description }}</h2>
-          {{ content }}
-        </div>
+      <div class="post-container">
+        <div class="post-content">
+          <h1>{{ page.title}}</h1>
+          <div class="row ">
+          <div class="col-md-4">
+            <img src="/assets/images/{{ page.image }}" class="post-fig"/>
+          </div>
+          <div class="col-md-8 post-text">
+            <h2 class="post-summary">{{ page.description }}</h2>
+            {{ content }}
+          </div>
+         </div>
+       </div>
       </div>
     </section>
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
     <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));

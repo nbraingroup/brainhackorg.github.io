@@ -2,7 +2,7 @@
 layout: post
 title:  "Self-Organization and Brain Function"
 date:   2017-1-11 10:30:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: starling_1758597c-222x180.jpeg
 description: In this project a simple mathematical model for self-organization is investigated.
 ---

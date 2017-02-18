@@ -2,7 +2,7 @@
 layout: post
 title:  "15 Minute DSI Project"
 date:   2017-1-11 10:18:06
-categories: Data Hackathon 2014
+project_categories: Data Hackathon 2014
 image: brain_hack_15MinDSI-222x180.png
 description: The 15 Minute DSI Project first began at the 2013 Hackathon in Paris, France.
 ---

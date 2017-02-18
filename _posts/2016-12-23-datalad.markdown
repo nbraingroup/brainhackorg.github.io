@@ -2,7 +2,7 @@
 layout: post
 title:  "Datalad"
 date:   2017-1-11 10:39:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: datalad-logo2-222x180.png
 description: Relying on git-annex, DataLad aims to establish a data distribution delivering variety of publicly available datasets (OpenfMRI collection, HCP, etc) via convenient unified,
 ---

@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: main-page
 title: Homepage
 ---
 
 
-<p>Enter a search term below to filter the projects and resources:<p>
+<p class="whitetext">Enter a search term below to filter the projects and resources:<p>
 <p><input type="text" class="quicksearch" placeholder="Search" /></p>
 
 <div class="grid">
@@ -12,33 +12,40 @@ title: Homepage
   {% for post in site.posts %}
 
       {% if post.big == 1 %}
-          <div class="entry big">
+          <div class="entry entry-big">
       {% else %}
-          <div class="entry small">
+          <div class="entry entry-small">
       {% endif %}
 
   			<div class="entry-thumbnail">
-    				<a href="{{ post.url | prepend: site.baseurl }}">
+            {% if post.project_url %}
+    				   <a href="{{ post.project_url }}">
+            {% else %}
+               <a href="{{ post.url | prepend: site.baseurl }}">
+            {% endif %}
                 <img src="./assets/images/{{ post.image }}"  alt="{{ post.title }}" title="{{ post.title }}" /><span class="overlay"></span>
     				</a>
 
-            {% if post.categories %}
-          				<div class="category"><ul class="post-categories">
-          	          <li><a href="http://brainhack.org/categories/brainhack-global-2017/" rel="category tag">{{ post.categories }}</a></li></ul>
+            {% if post.project_categories %}
+          				<div class="category">
+                    <ul class="post-categories">
+                        <li>
+                            {{ post.project_categories }}
+                        </li>
+                    </ul>
                   </div> <!-- end .category -->
             {% endif %}
 
-    				<span class="month">Jan<span class="date">16</span></span>
   			</div><!-- end .entry_thumbnail -->
 
   			<h2 class="title featured"><a href="{{ post.url | prepend: site.baseurl }}">
         {% if post.big == 1 %}
             {{ post.title | truncate:45 }}
         {% else %}
-            {{ post.title | truncate:22 }}
+            {{ post.title | truncate:25 }}
         {% endif %}
-        </a></h2>
-  			<p class="postinfo">posted by <a href="http://brainhack.org/author/cameron-craddock/" title="Posts by cameron.craddock" rel="author">cameron.craddock</a></p>
+        </a>
+        </h2>
 
   			<div class="entry-content">
   			    <div class="bottom-bg">
@@ -47,7 +54,7 @@ title: Homepage
                         {% if post.big == 1 %}
                             {{ post.description | truncate:150 }}
                         {% else %}
-                            {{ post.description | truncate:75 }}
+                            {{ post.description | truncate:60 }}
                         {% endif %}
                     </p>
   						      <div class="textright">
@@ -69,7 +76,11 @@ var qsRegex;
 // init Isotope
 var $grid = jQuery('.grid').isotope({
   itemSelector: '.entry',
-  layoutMode: 'fitRows',
+  layoutMode: 'masonry',
+  masonry: {
+    columnWidth: 236,
+    gutter: 8
+  },
   filter: function() {
     return qsRegex ? jQuery(this).text().match( qsRegex ) : true;
   }

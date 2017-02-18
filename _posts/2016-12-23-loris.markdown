@@ -2,7 +2,7 @@
 layout: post
 title:  "Loris"
 date:   2017-1-11 10:45:06
-categories: Brainhack MTL 2015
+project_categories: Brainhack MTL 2015
 image: LORIS_logo_v2_grey_clear-222x180.png
 description: Going through the process of developing a completely new module for LORIS from scratch.
 ---

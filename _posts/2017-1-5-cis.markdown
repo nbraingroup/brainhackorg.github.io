@@ -2,7 +2,7 @@
 layout: post
 title:  "Calculating Effect Sizes and Their Cis"
 date:   2017-1-11 10:09:06
-categories: Hackathon 2014
+project_categories: Hackathon 2014
 image: Visualizing_effect_size_small_effect-222x180.png
 description: With this project we will look into how effect sizes and their CIS can be calculated for various analyses popular in neuroimaging as well as how to perform those calculations post-hoc with external tools such as NeuroVault.
 ---

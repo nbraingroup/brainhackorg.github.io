@@ -2,7 +2,7 @@
 layout: post
 title:  "Submit a Project Report for a 2015 Brainhack Event!"
 date:   2017-1-11 10:43:06
-categories: Submit
+project_categories: Submit
 image: brainhack_greenbrain-e1380499421954-222x180.png
 description: Brainhack has partnered with GigaScience and BioMed Central to publish a Proceedings from the 2015 Brainhack events.
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "Neurodebian"
 date:   2017-1-11 10:41:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: neurodebian_logo_posters_banner_ohbm2015-222x180.png
 description: NeuroDebian provides a turnkey platform for bare metal or virtualized/cloud deployments.
 ---

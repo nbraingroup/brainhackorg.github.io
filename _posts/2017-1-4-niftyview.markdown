@@ -2,7 +2,7 @@
 layout: post
 title:  "Niftview"
 date:   2017-1-11 10:33:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: Screenshot-2015-03-31-12.23.11-222x180.png
 description: NiftyView is a web-based application for viewing and analyzing medical images.
 ---

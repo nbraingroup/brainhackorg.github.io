@@ -2,7 +2,7 @@
 layout: post
 title:  "DueCredit"
 date:   2017-11-11 10:39:06
-categories: Project
+project_categories: Project
 image: CSU-2-222x180.png
 description: Is a project in conceptualization state.
 ---

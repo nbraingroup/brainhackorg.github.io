@@ -2,7 +2,7 @@
 layout: post
 title:  "Random Axonal Growth"
 date:   2017-1-11 10:34:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: chem_grads_1-222x180.png
 description: Implementation of random axonal growth to measure the connection length and simulate the growth.
 ---

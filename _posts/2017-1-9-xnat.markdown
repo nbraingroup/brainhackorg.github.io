@@ -2,7 +2,7 @@
 layout: post
 title:  "Nipype for XNAT"
 date:   2017-1-11 10:04:06
-categories: Hackathon 2014
+project_categories: Hackathon 2014
 image: XNAT_logo_blue_bkgd.png
 description: For this project, we will add UI and infrastructure in XNAT to manage and run nipype pipelines.
 ---

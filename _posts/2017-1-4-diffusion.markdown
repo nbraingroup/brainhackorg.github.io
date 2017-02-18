@@ -2,7 +2,7 @@
 layout: post
 title:  "Diffusion Imaging in Python"
 date:   2017-1-11 10:27:06
-categories: Brainhack EDT Montreal
+project_categories: Brainhack EDT Montreal
 image: dipy_overview_figure-466x180.jpg
 big: 1
 description: During Montreal Brainhack EDT some of the Diffusion Imaging in Python

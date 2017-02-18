@@ -2,10 +2,9 @@
 layout: post
 title:  "Submit a Project Report for a 2015 Brainhack Event!"
 date:   2017-1-11 10:43:06
-project_categories: Brainhack MTL 2015
-image: 2bbis-222x180.png
-description: GigaScience Proceedings from Brainhack
-
+project_categories: Submit
+image: brainhack_greenbrain-e1380499421954-222x180.png
+description: Brainhack has partnered with GigaScience and BioMed Central to publish a Proceedings from the 2015 Brainhack events.
 ---
 ## GigaScience Proceedings from Brainhack
 Brainhack has partnered with GigaScience and BioMed Central to publish a Proceedings from the 2015 Brainhack events. Attendees of Brainhack events that occured in 2015 (OHBM Hackathon, Brainhack MTL, and Brainhack AMX) have the opportunity to submit a project report describing the work that they performed during the event. Project reports will be peer reviewed and edited by members of the Brainhack community. Reports should be written in [Markdown](https://daringfireball.net/projects/markdown/) and posted as a (github)[http://www.github.com/] repository, be no more than 650 words, contain a single figure, at most two tables and citations (not included in word count).

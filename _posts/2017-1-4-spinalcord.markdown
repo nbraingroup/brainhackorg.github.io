@@ -2,7 +2,7 @@
 layout: post
 title:  "Spinal Cord Gray Matter Segmentation Using Atlas Deformation"
 date:   2017-1-11 10:25:06
-categories: Brainhack EDT Montreal
+project_categories: Brainhack EDT Montreal
 image: Screen-Shot-2014-10-03-at-3.29.44-PM-1-222x180.png
 description: We are currently working on an automatic segmentation method for the spinal cord gray matter on T2*-weighted images, based on the deformation (using ANTs) of a probabilistic map of the gray matter.
 ---

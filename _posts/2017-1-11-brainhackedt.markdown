@@ -2,7 +2,7 @@
 layout: post
 title:  "Brainhack EDT"
 date:   2017-1-11 10:19:06
-categories: Brainhack EDT
+project_categories: Brainhack EDT
 image: BRAINHACK_EDT_TAILS-023-222x180.png
 description: Brainhack is a unique conference that convenes researchers from across the globe and a myriad of disciplines to work together on innovative projects related to neuroscience.
 ---

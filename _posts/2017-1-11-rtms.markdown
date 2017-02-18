@@ -2,7 +2,7 @@
 layout: post
 title:  "Predicting RTMS Outcomes"
 date:   2017-1-11 10:21:06
-categories: Brainhack EDT Toronto Challenge
+project_categories: Brainhack EDT Toronto Challenge
 image: toronto_rtms_challenge-466x180.png
 big: 1
 description: Identify ≥85% reliable predictors of outcome for rTMS in depression, using resting-state fMRI

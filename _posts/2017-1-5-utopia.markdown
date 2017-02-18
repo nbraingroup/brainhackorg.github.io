@@ -2,7 +2,7 @@
 layout: post
 title:  "Utopia-Documents Annotators"
 date:   2017-1-11 10:22:06
-categories: Brainhack EDT Boston
+project_categories: Brainhack EDT Boston
 image: BrainyUtopiaDocuments.png
 description: http://utopiadocs.com develop a PDF viewer particularly tuned for scientists.
 ---

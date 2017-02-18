@@ -2,7 +2,7 @@
 layout: post
 title:  "Brainbrowser"
 date:   2017-1-11 10:10:06
-categories: Hackathon 2014
+project_categories: Hackathon 2014
 image: bblogo-222x180.png
 description: BrainBrowser is a set of open source, web-based, 3D visualization tools primarily targetting neuroimaging.
 ---

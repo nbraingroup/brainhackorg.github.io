@@ -2,7 +2,7 @@
 layout: post
 title:  "Decision Outsourcing App"
 date:   2017-1-11 10:31:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: Cropped-InIn-222x180.jpg
 description: Decision outsourcing is a strategy informed by the brain science research described in the Wisdom of Crowds.
 ---

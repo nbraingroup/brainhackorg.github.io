@@ -2,7 +2,7 @@
 layout: post
 title:  "Loris"
 date:   2017-1-11 9:59:06
-categories: Hackathon 2014
+project_categories: Hackathon 2014
 image: loris_v2.grey_.clear_.cropped-283x116-222x116.png
 description: More than 1 neuroimaging paper is published every hour. But we can keep up with the literature if we do it all together!
 ---

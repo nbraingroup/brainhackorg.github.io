@@ -2,7 +2,7 @@
 layout: post
 title:  "Aural Neuroanatomy"
 date:   2017-1-11 10:12:06
-categories: Hackathon
+project_categories: Hackathon
 image: Screen-Shot-2014-05-15-at-10.32.32-222x180.png
 description: This project aims at discovering this new types of representations of brain imaging data using sound.
 ---

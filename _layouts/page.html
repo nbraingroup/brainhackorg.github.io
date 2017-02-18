@@ -7,31 +7,18 @@
     <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
     <script type="text/javascript" src="/javascripts/isotope.pkgd.js"></script>
     <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
-    <script type="text/javascript" src="/javascripts/cufon-yui.js"></script>
-    <script type="text/javascript" src="/javascripts/League_Gothic_400.font.js"></script>
-
 
     <link rel="stylesheet" href="/stylesheets/bootstrap.min.css" type="text/css" media="screen" />
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/stylesheets/octicons.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
     <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
     <link rel="stylesheet" href="/stylesheets/bib-publication-list.css"/>
     <link rel="stylesheet" href="/stylesheets/default/default.css" type="text/css" media="screen" />
-    <!-- <link rel="stylesheet" href="/stylesheets/nivo-slider.css" type="text/css" media="screen" /> -->
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Droid+Sans:regular,bold' rel='stylesheet' type='text/css' />
-    <script type="text/javascript">
-     <!-- //<![CDATA[ -->
-      jQuery.noConflict();
-      jQuery(document).ready(function(){
-        Cufon.replace('ul.nav a',{textShadow:'1px 1px 1px #000', hover: { textShadow: '1px 1px 1px #000' }})('h3.title',{textShadow:'1px 1px 1px #000'})('.wp-pagenavi',{textShadow:'1px 1px 1px rgba(0,0,0,0.7)'});
-        Cufon.replace('#featured h2.title')('div.category a',{textShadow:'1px 1px 1px rgba(0,0,0,0.3)'})('span.month',{textShadow:'1px 2px 4px rgba(0,0,0,0.3)'})('h2.title a')('p.postinfo')('h3.widgettitle, #tabbed-area li a',{textShadow:'1px 1px 1px #fff'})('h3.infotitle, h1.title, .blog-title, .post-meta, h3#comments, span.fn, h3#reply-title span');
-        Cufon.now();
-      });
-    </script>
+
     <title>Brainhack</title>
+
   </head>
 
   <body>
@@ -42,11 +29,11 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav nopad-left">
-              <li class="nopad-left"><a href="/index.html">+SUBMIT A PROJECT</a></li>
+              <li class="nopad-left"><a href="/index.html">HOME</a></li>
+              <li class="nopad-left"><a href="/submission.html">+SUBMIT A PROJECT</a></li>
               <li class="dropdown">
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PAST AND FUTURE EVENTS<span class="caret"></span></a>
                 <ul class="dropdown-menu">
-
                   <li><a href="http://events.brainhack.org/global2017" target="_blank">Brainhack Global 2017</a></li>
                   <li><a href="http://brainhackghent.wixsite.com/brainhackghent" target="_blank">Brainhack Ghent 2017</a></li>
                   <li role="separator" class="divider"></li>
@@ -86,10 +73,12 @@
 
     <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
 
-
-
-    <section id="main_content" class="container-bhack">
-        {{ content }}
+    <section id="main_content">
+      <div class="post-container">
+        <div class="post-content">
+            {{ content }}
+       </div>
+      </div>
     </section>
 
     <script type="text/javascript">

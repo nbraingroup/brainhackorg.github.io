@@ -2,7 +2,7 @@
 layout: post
 title:  "Niak in CBRAIN"
 date:   2017-1-11 10:43:06
-categories: Brainhack MTL 2015
+project_categories: Brainhack MTL 2015
 image: hackathon-222x110.png
 description: We will develop a CBRAIN task that can execute a PSOM/Niak pipeline.
 ---

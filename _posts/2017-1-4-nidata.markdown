@@ -2,7 +2,7 @@
 layout: post
 title:  "Nidata: A Python Library for Downloading Publicly Available Neuroimaging Data"
 date:   2017-1-11 10:32:06
-categories: OHBM Hackathon 2015
+project_categories: OHBM Hackathon 2015
 image: nidata1-222x180.png
 description: Data science and citizen science are both exploding, but neuroimaging research is not taking advantage.
 ---

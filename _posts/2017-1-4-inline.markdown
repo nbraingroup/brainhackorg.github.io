@@ -2,7 +2,7 @@
 layout: post
 title:  "Inline fMRI QC"
 date:   2017-1-11 10:28:06
-categories: Brainhack EDT Boston
+project_categories: Brainhack EDT Boston
 image: InlineQC_Badge1-222x180.png
 description: In collaboration with Siemens MR, we are developing a tool for “inline” monitoring of fMRI quality
 ---

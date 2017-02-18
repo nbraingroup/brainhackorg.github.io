@@ -2,10 +2,10 @@
 layout: post
 title:  "Brainhack Thematic Series: Call for Papers"
 date:   2017-1-11 10:46:06
-categories: Call for Paricipation
+project_categories: "Call for Participation"
 image: gigascience-07-466x180.png
 big: 1
-description: The Spinal Cord Toolbox is the first software for processing multiparametric MRI of the spinal cord. The primary step is the automatic segmentation of the spinal cord, and is currently performed by PropSeg.
+description: Submissions are being accepted for the “Brainhack Thematic Series – Open Tools for Neuroscience” published in the GigaScience Journal.
 ---
 ## Summary
 We are excited to announce the “Brainhack Thematic Series – Open Tools for Neuroscience”, which will be published in conjunction with [GigaScience](http://www.gigasciencejournal.com/). This exciting series will highlight new tools and pipelines produced from past and future Brainhack events, in order to improve data sharing and reproducibility of results within neuroscience. In addition to open review and open-access publication of your [Research Articles](http://www.gigasciencejournal.com/authors/instructions/research), [Technical Notes](http://www.gigasciencejournal.com/authors/instructions/technicalnote), and [Data Notes](http://www.gigasciencejournal.com/authors/instructions/datanote), all supporting tools, materials, methods and results will also be openly available in the GigaScience repository, [GigaDB](http://gigadb.org/).  

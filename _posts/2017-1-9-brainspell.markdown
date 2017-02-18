@@ -2,7 +2,7 @@
 layout: post
 title:  "Brainspell Tagging Sprint"
 date:   2017-1-11 10:00:06
-categories: Hackathon 2014
+project_categories: Hackathon 2014
 image: Screen-Shot-2014-04-26-at-18.59.08-222x180.png
 description: More than 1 neuroimaging paper is published every hour. But we can keep up with the literature if we do it all together!
 ---
