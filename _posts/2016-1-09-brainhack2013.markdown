@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Cirrusscience - A Paas for Reproducible Research"
+title:  "Brainhack 2013"
 date:   2016-1-09 10:42:06
 categories: Brainhack 2013
-image: cloud-222x180.png
-description: CirrusScience (Cloud Infrastructure for Reproducible Research and Utilities for Sharing Science) is a platform as a service effort to bring together interoperable services.
+image: brainhack_greenbrain-e1380499421954-222x180.png
+description: [The Neuro Bureau](http://www.neurobureau.org/) is proud to announce the 2013 Brainhack, to be held from October 23-26, 2013 at the [Centre International d’Études Pédagogiques](http://www.ciep.fr/), Sèvres, France (just outside of Paris).
 ---
 [The Neuro Bureau](http://www.neurobureau.org/) is proud to announce the 2013 Brainhack, to be held from October 23-26, 2013 at the [Centre International d’Études Pédagogiques](http://www.ciep.fr/), Sèvres, France (just outside of Paris).  
 
