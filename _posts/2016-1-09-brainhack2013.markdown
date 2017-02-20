@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "Cirrusscience - A Paas for Reproducible Research"
+date:   2016-1-09 10:42:06
+categories: Brainhack 2013
+image: cloud-222x180.png
+description: CirrusScience (Cloud Infrastructure for Reproducible Research and Utilities for Sharing Science) is a platform as a service effort to bring together interoperable services.
+---
+[The Neuro Bureau](http://www.neurobureau.org/) is proud to announce the 2013 Brainhack, to be held from October 23-26, 2013 at the [Centre International d’Études Pédagogiques](http://www.ciep.fr/), Sèvres, France (just outside of Paris).  
+
+Brainhack 2013 is a unique event with the goals of fostering interdisciplinary collaboration and open neuroscience. The structure builds from the concepts of an [unconference](http://en.wikipedia.org/wiki/Unconference) and [hackathon](http://en.wikipedia.org/wiki/Hackathon): The term “unconference” refers to the fact that most of the content will be dynamically created by the attendees — a hackathon is an event where participants collaborate intensively on projects.  
+
+Participants interested in neuroimaging from any discipline are welcome. Ideal participants span in range from graduate students to professors across any disciplines willing to contribute (e.g., mathematics, computer science, engineering, neuroscience, psychology, psychiatry, neurology, medicine, art, etc…). The primary requirement is a desire to work in close collaboration with people outside your specialization in order to address neuroscience questions that are beyond the expertise of a single discipline.  
+
+## Program  
+Brainhack 2013 will last 3.5 days, with the first night being dedicated to registration, a brief introduction of participants, and a reception and poster session.  Each of the next three days will begin with an “Ignite Session” in which distinguished neuroscience researchers will give 15 minute talks that will address wide questions in neuroscience that would benefit from open, interdisciplinary collaborations.  
+
+The “Ignite Session” will be followed by a “hack session” and a dynamic set of talks organized by attendees. During the “hack sessions”, participants will be encouraged to work together in small groups on relevant neuroscience projects. The workshop will culminate on the last day, when participants will have the opportunity to present a brief overview of their project.  
+
+[Click here](http://www.brainhack.org/?page_id=5442) for a preliminary schedule.  
+
+## [Confirmed 2013 “IGNITE” speakers](http://www.brainhack.org/?page_id=5419)  
+[Habib Benali](http://www.imed.jussieu.fr/), Laboratoire d’Imagerie Fonctionnelle (UMR_S 678 Inserm-UPMC)  
+[Yves Burnod](http://www.imed.jussieu.fr/en/outils/affiche_personne.php?pers_id=217), PhD, INSERM (French national Institute for Health)  
+[Jean Daunizeau](https://sites.google.com/site/jeandaunizeauswebsite/), PhD,l’Institut du Cerveau et de la Moelle épinière  
+[Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/), PhD, Department of Biostatistics of the Johns Hopkins University Bloomberg School of Public Health.  
+[Ziad Saad](http://intramural.nimh.nih.gov/research/clinicians/sc_saad_z.html), PhD, US National Institutes of Mental Health Statistical and Scientific Computing Core  
+[Gaël Varoquaux](http://gael-varoquaux.info/), PhD, INRIA at the Neurospin  
+[Xinian Zuo](http://lfcd.psych.ac.cn/), PhD, Institute of Psychology, Chinese Academy of Science  
+
+## Brainhack 2013 Projects  
+A successful brainhack will require computer programmers, mathematicians, psychologists, cognitive neuroscientists, brain hackers, engineers, artists and many more. The multidisciplinary and complex nature of the brain requires all of us to work together.  
+
+The organizers have taken the initiative to propose a couple of projects; however, we encourage and are actively promoting project ideas from attendees. Project ideas can be posted on brainhack.org at anytime leading up to and during the conference. If you have any hesitation about posting your project or announcing your project at brainhack 2013, please contact one of the organizers. The areas of expertise of the organizers are listed below, along with their contact, to encourage and assist brainhackers in submitting their projects. The Brainhack organizers can also help you identify a dataset(s), if you need one for your project. The goal of listing the areas of expertise of the organizers is not to limit the dynamic content or direction of the brainhack experience; rather the goal is to provide a path that will accelerate collaboration and open science. We hope that the encouraging project submission and contact for assisting you in developing your project ideas will launch brainhack projects and brainhack collaboration prior to meeting in Paris.  
+
+Each project will have an email list that enable interested attendees to communicate prior to the meeting. We encourage project creators/facilitators to distribute papers to attendees and further discuss the details of their projects to interested attendees. Mailing lists will be archived for future reference and attendees who join the project later.  
+
+Organizers and areas of expertise:  
+Pierre Bellec [pierre.bellec -a@t- gmail.com]: functional connectivity, data mining, data quality control, pipeline development
+Cameron Craddock [cameron.craddock -a@t- gmail.com]: connectivity analyses and brain state prediction
+Daniel Margulies [daniel.margulies -a@t- gmail.com]: cortical anatomy, parcellation, visualization
+Donald McLaren [ mclaren.donald -a@t- gmail.com]: functional connectivity (task and rest), statistical methods, brain-behavior relationships
+Maarten Mennes [mennes.maarten -a@t- gmail.com]: resting state fMRI, developmental applications, fMRI image analysis
+Salma Mesmoudi [salma.mesmoudi -a@t- gmail.com]: functional connectivity, meta-analysis, optimization, machine learning, complex system
+Roberto Toro [roberto.toro -a@t- gmail.com]: computational neuroanatomy, imaging genetics, automatic meta-analyses, brain evolution and development
+If you are looking for assistance and don’t know whom to contact, please contact mclaren.donald -a@t- gmail.com.
+Please contact one of the organizing committee members above or [click here](http://www.brainhack.org/?page_id=27553) to submit a new project idea.  
+The comment section of each project will list the mailing list.  
+
+## Data/Computational Resources  
+Brainhack 2013 will have two datasets. First, Michael Milham is providing a limited release of the NKI-Rockland sample. Second, we are working on obtaining high-resolution DTI images for people to work on visualization from Siemens. Participants should come prepared with the resources that they need to work on their projects. If you have access to or know of computational resources that could be made openly available to Brainhack 2013 participants, please contact the organizers at info at neurobureau.org.  
+
+## Registration Details
+Please use the [registration form](http://www.brainhack.org/?page_id=5425) to confirm your participation. Registration (and lodging for 4 nights) is  450 Euros; if you do not need lodging, the cost is currently 207 Euros.
+Registration will close when all spots are filled OR October 15th, 2013, whichever is earlier. Lodging will be in single rooms and each room will accommodate one person. We have moved the [abstract submission form to its own page](http://www.brainhack.org/?page_id=5455). This allows attendees to register before submitting and abstract and to guarantee a spot before the registration is reached.
+
+## [***NEW*** Poster Abstracts](http://www.brainhack.org/?page_id=5455)  
+Brainhack 2013 plans to assemble a book  of the presented posters. If you would like the abstract of your poster listed in the abstract book, please [click here](http://www.brainhack.org/?page_id=5455) to submit an abstract by October 18th, 2013 . Abstract submission is highly encouraged as we can not guarantee poster space for unsubmitted abstracts.
+
+## [***NEW*** Stipend Program](http://www.brainhack.org/?page_id=5487)  
+The organizing committee has obtained funds from Siemens Medical to cover a limited number of stipends to Brainhack 2013 attendees to help defray registration costs. The number and amount will be decided based on the number of applications.  
+Stipend awards will be determined by members of the organizing committee using the submitted abstract and the proposed Brainhack project.  
+The application requires:  
+(1) A poster abstract  
+(2) A 1-2 page Brainhack project proposal (pdf format)  
+(3) CV (or NIH Biosketch) (pdf format)  
+If you would like to apply for one of the stipends, please email your completed application package to Donald McLaren (mclaren.donald -a@t- gmail.com) by 11:59PM EST on Tuesday October 1st, 2013. For more details, please check the stipend application page.the form by Thursday October 3rd, 2013 11:59PM EST. Only applications submitted by this deadline will be considered. Individuals selected for a stipend will be notified by October 6th.
+
+## Location and Directions  
+Centre International d’Études Pédagogiques  
+1 Avenue Léon Journault, 92310 Sèvres  
+Access map:  
+[Voir une carte plus grande](http://www.openstreetmap.org/?lat=48.827&lon=2.2258500000000003&zoom=13&layers=M&mlat=48.82419&mlon=2.21555)
+[Detailed access map](http://www.iscpif.fr/tiki-download_file.php?fileId=910)  
+
+## How to get to the “Centre International d’Études Pédagogiques”?  
+From the airports:  
+ORLY  
+• By bus Air France – direction Paris center – get off at the Montparnasse train station. At the Montparnasse train station, take a train to Versailles Chantiers, get off at Sèvres-Rive Gauche station, take bus No. 179, direction Pont de Sèvres and get off at Parc de Saint-Cloud.
+• By ORLYVAL: take ORLYVAL to Antony, then the RER B (direction Paris center), get off at Denfert Rochereau.
+Take the subway line 4, direction Porte de Clignancourt or line 6, direction Charles de Gaulle-Etoile and get off at Montparnasse train station. At the Montparnasse train station, take a train to Versailles Chantiers, get off at Sèvres-Rive Gauche station, take bus No. 179, direction Pont de Sèvres and get off at Parc de Saint-Cloud.
+Roissy – Charles de Gaulle
+• By bus Air France – direction Paris center – get off at the Montparnasse train station. At the Montparnasse train station, take a train to Versailles Chantiers, get off at Sèvres-Rive Gauche station, take bus No. 179, direction Pont de Sèvres and get off at Parc de Saint-Cloud.
+• By ROISSYBUS: take ROISSYBUS – direction Paris center – get off at the Opera station. At Havre Caumartin station, take the subway line 9 towards Pont de Sèvres and get off at the terminus. Take bus No. 169, 171 or 179, get off at the Parc de Saint-Cloud.  
+
+From the railway stations:  
+• Gare de l’Est
+Take the subway line 4, direction Porte d’Orléans and get off at Strasbourg Saint-Denis station. Take line 9 direction Pont de Sèvres and get off at the terminus. Take bus No. 169, 171 or 179, get off at Parc de Saint-Cloud.
+• Gare de Lyon
+Take the subway line 1, direction La Défense and get off at Franklin Roosevelt station, take line 9 direction Pont de Sèvres and get off at the terminus. Take bus No. 169, 171 or 179, get off at Parc de Saint-Cloud.
+• Gare du Nord
+Take the subway line 4, direction Porte d’Orléans and get off at Strasbourg Saint-Denis station. Take line 9 direction Pont de Sèvres and get off at the terminus. Take bus No. 169, 171 or 179, get off at Parc de Saint-Cloud.
+• Gare Saint-Lazare
+Take a train to Versailles Rive Droite and get off at Sèvres-Rive Droite / Ville d’Avray station. Take bus No. 171 direction Pont de Sèvres and get off at Parc de Saint-Cloud.
+• Gare Montparnasse
+Take a train to Versailles Chantiers, get off at Sèvres-Rive Gauche station, take bus No. 179, direction Pont de Sèvres and get off at Parc de Saint-Cloud.  
+
+If you have any questions, please contact one of the members of [the organizing committee](http://www.brainhack.org/?page_id=5457).   
