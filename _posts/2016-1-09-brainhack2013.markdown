@@ -4,7 +4,7 @@ title:  "Brainhack 2013"
 date:   2016-1-09 10:42:06
 project_categories: Brainhack 2013
 image: brainhack_greenbrain-e1380499421954-222x180.png
-description: [The Neuro Bureau](http://www.neurobureau.org/) is proud to announce the 2013 Brainhack, to be held from October 23-26, 2013 at the [Centre International d’Études Pédagogiques](http://www.ciep.fr/), Sèvres, France (just outside of Paris).
+description: The Neuro Bureau is proud to announce the 2013 Brainhack, to be held from October 23-26, 2013 at the Centre International d’Études Pédagogiques, Sèvres, France (just outside of Paris).
 ---
 [The Neuro Bureau](http://www.neurobureau.org/) is proud to announce the 2013 Brainhack, to be held from October 23-26, 2013 at the [Centre International d’Études Pédagogiques](http://www.ciep.fr/), Sèvres, France (just outside of Paris).  
 
