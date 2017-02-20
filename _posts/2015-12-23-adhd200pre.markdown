@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "ADHD-200 Preprocessed"
+date:   2015-12-23 10:42:06
+project_categories: Preprocessed Data
+image: ADHD200_logo_preprocessed-03.jpg
+description: This project aims at preprocessing this database using a variety of strategies, and make the outcome publicly available for the community to use.
+---
+## Summary:
+The [ADHD-200 consortium](http://fcon_1000.projects.nitrc.org/indi/adhd200/) has released a large database of structural MRI, resting-state functional MRI raw datasets, along with phenotypic data acquired on a large cohort of children and adolescents, both for typically developing individuals as well as patients diagnosed with an attention deficit hyperactivity disorder (ADHD). This project aims at preprocessing this database using a variety of strategies, and make the outcome publicly available for the community to use.
+
+## What can I do?  
+You can download some of the preprocessed datasets already [available](http://www.nitrc.org/frs/?group_id=383) (see a description of the methods [here](http://www.nitrc.org/plugins/mwiki/index.php/neurobureau:ADHDpreproc)). You can also provide alternative preprocessed results.
+
+## How can I join?
+Please contact info [at] neurobureau.org
+
+## Who are the members?
+This project runs under the hood with the neurobureau. Involved members are:  
+Cameron Craddock (Virginia Tech Carilion Research Institute, USA)  
+Pierre Bellec (Centre de recherche de l’institut de gériatrie de Montréal,Université de Montréal, Canada)  
+Carlton Chu (Section of Functional Imaging Methods, Laboratory of Brain and Cognition, NIMH, NIH, Bethesda, USA)  
+François Chouinard-Decorte (Centre de recherche de l’institut de gériatrie de Montréal,Université de Montréal, Canada)  
+Sébastien Lavoie-Courchesne (Centre de recherche de l’institut de gériatrie de Montréal,Université de Montréal, Canada)  

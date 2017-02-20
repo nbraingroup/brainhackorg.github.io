@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "ADHD-200"
+date:   2015-12-20 10:42:06
+project_categories: Raw Data
+image: ADHD200_logo-466x180.png
+big: 1
+description: The ADHD-200 Sample is a grassroots initiative, dedicated to accelerating the scientific community’s understanding of the neural basis of Attention Deficit Hyperactivity Disorder (ADHD) through the implementation of open data-sharing and discovery-based science.
+---
+## Summary:
+The ADHD-200 Sample is a grassroots initiative, dedicated to accelerating the scientific community’s understanding of the neural basis of Attention Deficit Hyperactivity Disorder (ADHD) through the implementation of open data-sharing and discovery-based science. Towards this goal, the ADHD-200 consortium has publicly released 776 resting-state fMRI and anatomical datasets aggregated across 8 independent imaging sites, 491 of which were obtained from typically developing individuals and 285 in children and adolescents with ADHD (ages: 7-21 years old). Accompanying phenotypic information includes: diagnostic status, dimensional ADHD symptom measures, age, sex, intelligence quotient (IQ) and lifetime medication status. More information on the [ADHD-200 website](http://fcon_1000.projects.nitrc.org/indi/adhd200/).
+
+## What can I do?  
+You can contribute datasets to the study. It is also possible to process either parts of the database or the full database and share the results publicly, see the [ADHD-200 prepocessed!](http://brainhack.org/2012/01/05/adhd200-preprocessed/) project
+
+## How can I join?
+If you want to contribute data to the ADHD-200 sample, you can contact the project coordinator, Michael Milham, through the form below. For questions regarding the data or its usage you can stop by the [INDI community forums](http://www.nitrc.org/forum/?group_id=296).
+
+## Who are the members?
+See the [ADHD-200 website](http://fcon_1000.projects.nitrc.org/indi/adhd200/) for a list of contributors.

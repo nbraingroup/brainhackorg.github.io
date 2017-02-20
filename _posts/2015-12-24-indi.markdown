@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Indi"
+date:   2015-12-24 10:42:06
+project_categories: Raw Data
+image: INDI_logo-222x180.png
+description: INDI or the International Neuroimaging Datasharing Initiative is dedicated to accelerating our understanding of the brain’s functional architecture through the implementation of open data-sharing and discovery-based science.
+---
+## Summary:
+[INDI](http://fcon_1000.projects.nitrc.org/index.html) or the International Neuroimaging Datasharing Initiative is dedicated to accelerating our understanding of the brain’s functional architecture through the implementation of open data-sharing and discovery-based science. Extending the original [1000 Functional Connectomes project](http://fcon_1000.projects.nitrc.org/fcpClassic/FcpTable.html), [INDI](http://fcon_1000.projects.nitrc.org/index.html) houses 3000+ resting-state FMRI and anatomical datasets. To complement the imaging data INDI encourages contributors to share various phenotypic data, including behavioral questionnaires and cognitive test results as well as physical measures (height, weight) and even DNA samples. These data are aggregated from over 30 independent international imaging sites from around the world.  
+
+An initial publication announcing the sample and presenting feasibility analyses was published by [Biswal et al.](http://www.ncbi.nlm.nih.gov/pubmed/20176931) in 2010. Since its initial launch the dataset (or parts of it) is being used in an increasing number of publications ranging from methodological papers to clinical studies.
+
+## What can I do?  
+You are warmly invited to contribute datasets to the initiative. In addition, INDI welcomes any effort related to processing the available data and making the results publicly available. For an example of such effort, check out the [ADHD-200 prepocessed!](http://brainhack.org/2012/01/05/adhd200-preprocessed/) project.
+
+## How can I join?
+If you want to contribute data to INDI, you can contact the project coordinator, [Michael Milham](http://www.childmind.org/en/directory/clinicians/mmilham), through the form below. For questions regarding the data or its usage you can stop by the [INDI community forums](http://www.nitrc.org/forum/?group_id=296).
+
+## Who are the members?
+INDI was founded by an international consortium of scientists interested in neuroimaging. To get an idea of who’s involved you can visit [this INDI info page](http://fcon_1000.projects.nitrc.org/indi/indi_ack.html).

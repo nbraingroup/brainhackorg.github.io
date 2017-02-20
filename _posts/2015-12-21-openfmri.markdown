@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "OpenfMRI.org"
+date:   2015-12-21 10:42:06
+project_categories: Raw Data
+image: openfmri_logo-222x101.png
+description: The OpenfMRI project was established in 2010 to provide a resource for researchers interested in making their fMRI data openly available to the research community.
+---
+The [OpenfMRI project](http://openfmri.org/) was established in 2010 to provide a resource for researchers interested in making their fMRI data openly available to the research community.
+
+## What can I do?  
+You can contribute an fMRI database to the project.
+
+## How can I join?
+Create an account on openfmri.org.
+
+## Who are the members?
+The project is managed by [Russ Poldrack](http://www.poldracklab.org/) at the University of Texas at Austin, with computing resources provided by the [Texas Advanced Computing Center](http://www.tacc.utexas.edu/).  
+
+The OpenfMRI project is funded by a grant from the National Science Foundation (OCI-1131441).  
+
+A list of the investigators who contributed datasets can be found on the [website](http://openfmri.org/data-sets).

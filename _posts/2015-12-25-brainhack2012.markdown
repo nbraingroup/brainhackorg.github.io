@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Brainhack 2012 Unconference"
+date:   2015-12-25 10:42:06
+project_categories: Brainhack 2012
+image: brainhack_logo-466x180.png
+big: 1
+description: The Neuro Bureau is proud to announce the 2012 Brainhack, to be held from September 1-4 at the Max Plank Institute for Human Cognitive and Brain Sciences, Leipzig, Germany.
+---
+[The Neuro Bureau](http://www.neurobureau.org/) is proud to announce the 2012 Brainhack, to be held from September 1-4 at the [Max Plank Institute for Human Cognitive and Brain Sciences](http://www.cbs.mpg.de/index.html), Leipzig, Germany.  
+
+Brainhack 2012 is a unique workshop with the goals of fostering interdisciplinary collaboration and open neuroscience. The structure builds from the concepts of an [unconference](http://en.wikipedia.org/wiki/Unconference) and a [hackathon](http://en.wikipedia.org/wiki/Hackathon): The term “unconference” refers to the fact that most of the content will be dynamically created by the participants — a hackathon is an event where participants collaborate intensively on science-related projects.  
+
+Participants from all disciplines related to neuroimaging are welcome. Ideal participants span in range from graduate students to professors across any disciplines willing to contribute (e.g., mathematics, computer science, engineering, neuroscience, psychology, psychiatry, neurology, medicine, art, etc…). The primary requirement is a desire to work in close collaborations with researchers outside of your specialization in order to address neuroscience questions that are beyond the expertise of a single discipline.  
+
+## Program  
+Brainhack 2012 will last 3.5 days, with the first night being dedicated to registration, a brief introduction of participants, and a poster session / cocktail hour. Each of the next two days will begin with an “Ignite Session” in which distinguished neuroscience researchers will give 10 minute talks that will address wide questions in neuroscience that would benefit from open, interdisciplinary collaborations. The “Ignite Session” will be followed by a dynamic set of talks organized by attendees. This session will be scheduled on-site, and aims to reflect participants’ interests as they evolve over the course of the workshop. Each afternoon and evening will then include a brainhack session, in which participants will be encouraged to work together in small groups on relevant neuroscience projects. The workshop will culminate on the last day, when participants will have the opportunity to present a brief overview of their project.  
+
+We aim for Brainhack 2012 to be a highly dynamic event. As such, participants are encouraged to come prepared to discuss their research interests and work during the unconference portion of the workshop. In addition, there will be an opportunity for participants to present posters on Saturday night. If you are interested in doing so, please indicate this on the registration form so that we can be sure to have poster space allocated.  
+
+## Brainhack 2012 Projects  
+In order to maximize the productivity of the hackathon portion of Brainhack 2012, we encourage participants to come with potential (or established) collaborators and projects in mind. Participants are encouraged to advertise projects, or shop for a team of collaborators at the [brainhack.org](http://brainhack.org/) web site prior to the conference. To create a new brainhack project fill out the [Submit a new project form](http://brainhack.org/submit/) and make sure to indicate that this is a Brainhack 2012 project in the description.  
+
+## Computational Resources  
+Several of the Brainhack 2012 projects are likely to require substantial computational resources. We have yet to identify a computer cluster to use during the hackathon. Participants should come prepared with the resources that they need to work on their projects. If you have access to or know of computational resources that could be made openly available to Brainhack 2012 participants, please contact the conference organizers at info at neurobureau.org.  
+
+## Data  
+We will have preprocessed copies of several datasets onsite for participants to use (if they want):  
+[The ADHD-200 Sample](http://fcon_1000.projects.nitrc.org/indi/adhd200/)(resting state fMRI, structural, clinical population)  
+[International Neuroimaging Data-sharing Initiativedatasets](http://fcon_1000.projects.nitrc.org/) (structural, resting state fMRI, DTI)  
+[Openfmri.org](http://http//openfmri.org/) datasets (task fMRI, structural)  
+The [NeuroSynth](http://neurosynth.org/) database (meta-analysis of neuroimaging literature)  
+If you have data that you would like make available at Brainhack 2012, please contact the conference organizers at info at neurobureau.org.  
+
+## Results  
+Participants will have the opportunity to provide a brief presentation of the project that they worked on, and the progress made, on the last day of Brainhack 2012. Participants are encouraged to make results from their Brainhack experience openly available on a resource such as [NITRC](http://www.nitrc.org/) or [github](https://github.com/).  
+
+## Registration  
+Registration costs 150 euros and includes all meals for the 3.5 days. To register please visit: [http://www.cbs.mpg.de/events/workshops/brainhack](http://www.cbs.mpg.de/events/workshops/brainhack).  
+
+## Important Dates  
+Registration Deadline: 30 July 2012  
+Payment Deadline: 7 August 2012  
+Final Program: 30 August 2012  
+
+## Organizing Committee  
+Brainhack.org and the Brainhack 2012 are initiatives of The Neuro Bureau.  
+Pierre Bellec (Centre de recherche de l’institut de gériatrie de Montréal, Université de Montréal, Canada)  
+Cameron Craddock (Virginia Tech Carilion Research Institute, USA)  
+Daniel Margulies (Max Planck Institute for Human Cognitive and Brain Sciences, DE)  
+Donald McLaren (Massachusetts General Hospital and Harvard Medical School, USA)  
+Maarten Mennes (Donders Institute for Brain, Cognition and Behaviour, The Netherlands)  
