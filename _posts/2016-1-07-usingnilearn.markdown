@@ -2,7 +2,7 @@
 layout: post
 title:  "Reproduce existing results using Nilearn and add them as examples"
 date:   2016-1-07 10:42:06
-categories: Brainhack 2013
+project_categories: Brainhack 2013
 image: nilearn-logo-222x180.png
 description: For BrainHack, we propose to add new examples reproducing existing experiments based on public datasets.
 ---

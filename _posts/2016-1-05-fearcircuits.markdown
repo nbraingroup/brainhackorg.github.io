@@ -2,7 +2,7 @@
 layout: post
 title:  "Fear Circuits"
 date:   2016-1-06 10:42:06
-categories: Brainhack 2013
+project_categories: Brainhack 2013
 image: images-222x168.jpg
 description: Using DTI data and questionnaire measures of anxiety from the public NKI-RS dataset, this project aims to confirm the function of the proposed threat-mediating pathway in healthy humans (across young and older age groups) by investigating a link between pathway connection strength (using fractional anisotropy measures) and individual differences in fear processing behaviour (using anxiety scores in the State-Trait Anxiety Inventory).
 ---

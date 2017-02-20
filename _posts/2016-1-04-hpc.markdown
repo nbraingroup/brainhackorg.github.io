@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "HCP Pre-Processed"
+date:   2016-1-04 10:42:06
+project_categories: Brainhack 2013 Pre-Processed Data
+image: php3popaW-222x180.png
+description: At Brainhack 2012, we started a project on the idea to segment the cortex of the cerebellum as a surface.
+---
+## Summary: MRI data quality control over a wide range of acquisition parameters
+At Brainhack 2012, we started a project on the idea to segment the cortex of the cerebellum as a surface. One year later we have been able to apply this method as part of the CBS High Resolution Processing Tools to the data from the Human Connectome Project (Q1), producing surface representations of both cerebral and cerebellar cortices at the native resolution of 0.7mm. This data is now available here: [https://www.nitrc.org/projects/cbs-tools/](https://www.nitrc.org/projects/cbs-tools/)
+
+## What can I do?  
+While I will not be able to attend Brainhack this year, I wanted to put this data out there for people to play with. Having both the cerebral and cerebellar surfaces at high resolution might be a nice starting point for many HCP-based projects!
+
+## How can I join?
+Simply follow the download link from [www.nitrc.org/projects/cbs-tools/](www.nitrc.org/projects/cbs-tools/) to access the data.
+
+## Who are the members?
+This data processing comes principally from Pierre-Louis Bazin and Judy Kipping, yet many others have been involved. Although we both cannot join the fun this year, we just decided to make the data available to whoever wants to use it!

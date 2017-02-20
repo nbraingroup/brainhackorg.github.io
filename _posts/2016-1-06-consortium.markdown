@@ -2,7 +2,7 @@
 layout: post
 title:  "Consortium for reproducibility and reliability (CORR)"
 date:   2016-1-07 10:42:06
-categories: Raw Data
+project_categories: Raw Data
 image: INDI_logo-222x180.png
 description: The overarching goal of CoRR is to create an open science resource for the imaging community that will facilitate the assessment of test-retest reliability and reproducibility for functional and structural connectomics.
 ---

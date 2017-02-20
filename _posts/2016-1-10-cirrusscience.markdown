@@ -2,7 +2,7 @@
 layout: post
 title:  "Cirrusscience - A Paas for Reproducible Research"
 date:   2016-1-10 10:42:06
-categories: Hackathon 2014
+project_categories: Hackathon 2014
 image: cloud-222x180.png
 description: CirrusScience (Cloud Infrastructure for Reproducible Research and Utilities for Sharing Science) is a platform as a service effort to bring together interoperable services.
 ---

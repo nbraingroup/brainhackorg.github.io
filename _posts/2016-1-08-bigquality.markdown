@@ -2,7 +2,7 @@
 layout: post
 title:  "Big Quality Control"
 date:   2016-1-08 10:42:06
-categories: Brainhack 2013
+project_categories: Brainhack 2013
 image: logo_qc_work_group1-190x180.png
 description: Here we propose to address this question on a large and heterogeneous dataset: all the data acquired at the CENIR (CEnter of NeuroImaging Research) on a 3T Trio and a 3T Verio Siemens.
 ---
