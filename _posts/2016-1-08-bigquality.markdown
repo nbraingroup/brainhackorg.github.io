@@ -4,8 +4,9 @@ title:  "Big Quality Control"
 date:   2016-1-08 10:42:06
 project_categories: Brainhack 2013
 image: logo_qc_work_group1-190x180.png
-description: Here we propose to address this question on a large and heterogeneous dataset: all the data acquired at the CENIR (CEnter of NeuroImaging Research) on a 3T Trio and a 3T Verio Siemens.
+description: Here we propose to address this question on a large and heterogeneous dataset, all the data acquired at the CENIR (Center of NeuroImaging Research) on a 3T Trio and a 3T Verio Siemens.
 ---
+
 ## Summary: MRI data quality control over a wide range of acquisition parameters
 A reliable and automatic quality control of MRI data is still an important challenge. Here we propose to address this question on a large and heterogeneous dataset: all the data acquired at the CENIR (CEnter of NeuroImaging Research) on a 3T Trio and a 3T Verio Siemens. (10 000 subject acquired in 300 different projects , around 4 Tb. )
 We would like to address two different objectives : 1_ Outlier detection, with an automatic classification of specific artefacts 2_ Acquisition parameters effect on resulting measures : the amount of heterogeneous (in term of acquisition parameters) datasets give us the opportunity to explore the influence of the acquisition parameters on the reliability (reproducibility) of the processing results (biomarkers). In that context, we are interested in optimizing the acquisitions parameters with respect to the variability of extracted biomarkers.
