@@ -6,7 +6,7 @@ project_categories: Raw Data
 image: INDI_logo-222x180.png
 description: The overarching goal of CoRR is to create an open science resource for the imaging community that will facilitate the assessment of test-retest reliability and reproducibility for functional and structural connectomics.
 ---
-## Summary: MRI data quality control over a wide range of acquisition parameters
+## Summary:
 The overarching goal of CoRR is to create an open science resource for the imaging community that will facilitate the assessment of test-retest reliability and reproducibility for functional and structural connectomics. In order to accomplish this, we will aggregate resting state fMRI (R-fMRI) and diffusion imaging data across laboratories around the world, and share the data via the 1000 Functional Connectomes Project / International Neuroimaging Data-sharing Initiative (FCP/INDI) to enable the:
 1) Establishment of test-retest reliability and reproducibility for commonly used MR-based connectome metrics 2) Determination of the range of variation in the reliability and reproducibility of these metrics across imaging sites and retest study designs 3) Creation of a standard/benchmark test-retest dataset for the evaluation of novel metrics
 Currently, we have pledges for test-retest data from more than 1300 participants around the world, and are planning a release in spring, 2014.

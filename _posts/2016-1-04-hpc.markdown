@@ -6,7 +6,7 @@ project_categories: Brainhack 2013 Pre-Processed Data
 image: php3popaW-222x180.png
 description: At Brainhack 2012, we started a project on the idea to segment the cortex of the cerebellum as a surface.
 ---
-## Summary: MRI data quality control over a wide range of acquisition parameters
+## Summary:
 At Brainhack 2012, we started a project on the idea to segment the cortex of the cerebellum as a surface. One year later we have been able to apply this method as part of the CBS High Resolution Processing Tools to the data from the Human Connectome Project (Q1), producing surface representations of both cerebral and cerebellar cortices at the native resolution of 0.7mm. This data is now available here: [https://www.nitrc.org/projects/cbs-tools/](https://www.nitrc.org/projects/cbs-tools/)
 
 ## What can I do?  
