@@ -4,8 +4,8 @@ title: Homepage
 ---
 
 
-<p class="whitetext">Enter a search term below to filter the projects and resources:<p>
-<p><input type="text" class="quicksearch" placeholder="Search" /></p>
+<!-- <p class="whitetext">Enter a search term below to filter the projects and resources:<p>
+<p><input type="text" class="quicksearch" placeholder="Search" /></p> -->
 
 <div class="grid">
  {% assign num = 0 %}
