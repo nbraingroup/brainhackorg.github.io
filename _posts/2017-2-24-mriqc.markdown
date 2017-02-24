@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "MRIQC"
+date:   2017-2-24 10:31:06
+project_categories: Project
+image: mriqc.png
+description: MRIQC is a robust T1-weighted and fMRI quality control tool with focus on visualization reports and automatic quality prediction.
+---
+## Summary
+[MRIQC](http://mriqc.readthedocs.io) is a robust T1-weighted and fMRI quality control tool with focus on visualization reports and automatic quality prediction. Here is a [list](https://github.com/poldracklab/mriqc/issues?q=is%3Aopen+is%3Aissue+label%3A%22potential+hackathon+project%22) of ways that you can contribute to this ongoing development effort.
+
+
+## Contact  
+Oscar Esteban 
+[gleb@intentionalinsights.org](mailto: oesteban@stanford.edu)  
+[https://github.com/poldracklab/mriqc](https://github.com/poldracklab/mriqc)  
