@@ -15,3 +15,6 @@ Brainspell is a platform for the human curation of neuroimaging literature. For 
 ## Contact  
 Neel Somani
 [neel@berkeley.edu](mailto:neel@berkeley.edu)
+
+Sharabesh Ramesh
+[sharabesh@berkeley.edu](mailto:sharabesh@berkeley.edu)
