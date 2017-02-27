@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Brainhack Thematic Series: Call for Papers"
-date:   2017-1-11 10:46:06
-project_categories: "Call for Participation"
-image: gigascience-07-466x180.png
-big: 1
+title:  "Thematic Series"
+date:   2017-2-27 10:46:06
+project_categories: Outcomes
+image: gigascience-07-222x180.png
+big: 0
 description: Submissions are being accepted for the “Brainhack Thematic Series – Open Tools for Neuroscience” published in the GigaScience Journal.
 ---
 ## Summary

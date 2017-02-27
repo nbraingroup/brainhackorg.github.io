@@ -2,7 +2,7 @@
 layout: post
 title:  "Brainhack Global 2017"
 date:   2017-2-1 13:53
-project_categories: Event
+project_categories: Events 2017
 image: Screen-Shot-2017-01-16-at-10.29.22-AM-466x180.png
 big: 1
 description: Synchronized Brainhack Events in 40 cities, in 15 countries, on 4 continents.

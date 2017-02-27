@@ -2,7 +2,7 @@
 layout: post
 title:  "Brainhack Ghent 2017"
 date:   2017-2-14 13:53
-project_categories: Event
+project_categories: Events 2017
 image: BrainhackGhent2017222x180.jpeg
 description: Brainhack@Ghent April 12-13th at the Faculty of Psychology and Educational Sciences.
 ---
