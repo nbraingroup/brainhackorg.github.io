@@ -7,7 +7,7 @@ title: About
 
 ## Information about the brainhack organization and hosting a brainhack
 
-Answering the next generation of open questions in neuroscience will require very large data sets and complex analytical methods. The purpose of Brainhack is to bridge the data science and neuroscience research communities by bringing them together to collaborate on a multitude of projects. Brainhack is a unique conference that convenes researchers from across the globe and a myriad of disciplines to work together on innovative projects related to neuroscience. Year after year, global Brainhack events have brought together researchers to participate in open collaboration, and regional Brainhack events keep the momentum going throughout the year.
+Answering the next generation of open questions in neuroscience will require very large data sets and complex analytical methods. The purpose of Brainhack is to bridge the data science and neuroscience research communities to advance the progress of brain science research. Brainhack is a unique conference that convenes researchers from across the globe and myriad disciplines to work together on innovative projects related to neuroscience. Year after year, global Brainhack events have brought together researchers to participate in open collaboration and regional Brainhack events keep the momentum going throughout the year.
 
 These collaborative workshops combine elements of Hackathons and Unconferences, with a variety of educational activities, to accelerate the adaptation of data science and computational methods in Neuroscience. Much of the conference is allocated to open working time during which attendees are encouraged to work together in interdisciplinary teams on projects that utilize computational techniques to solve problems in neuroscience. Periodic unconference sessions provide an opportunity for attendees to share their expertise on topics that become relevant through the course of the event. In parallel to these activities, an educational track provide hands-on tutorials on relevant tools such as python, github, cloud computing, and innovative statistical methods.
 
@@ -103,4 +103,4 @@ Below is a brief list of some of the projects that have been created at Brainhac
       <td>Brainhack 2013 Paris</td>
     </tr>
   </table>
-  <div class="spacer"></div>
+  <!-- <div class="spacer"></div> -->
