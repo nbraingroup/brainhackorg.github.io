@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "LIMO EEG Toolbox"
+date:   2017-2-24 10:31:06
+project_categories: Warwick 2017
+image: limo-222x180.png
+description: The LIMO EEG toolbox implements linear analyses of eeg data with robust stats
+---
+## Summary
+
+This tutorial will briefly describe what the LIMO EEG toolbox does (linear analyses of eeg data with robust stats), and open nature of the project and how people can contribute, develop and get credit / papers with that project
+
+[https://github.com/LIMO-EEG-Toolbox](https://github.com/LIMO-EEG-Toolbox)
+
+## Contact  
+Cyril Pernet
+[cyril.pernet@ed.ac.uk](mailto:cyril.pernet@ed.ac.uk)
