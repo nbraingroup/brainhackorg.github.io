@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Neuropy"
+date:   2017-2-27 10:31:06
+big: 0
+project_categories: Warwick 2017
+image: NeuroPyLogo.png
+description: Explore ways in which python can be used to represent, compare and manipulate data, with a key focus on applying these methods to neuroimaging results
+---
+
+### Summary
+We will first familiarise ourselves with tools available in python for neuroimaging by working through a series of tutorials available at the Data Carpentry github repository: https://github.com/datacarpentry/python-neuroimaging-lesson
+
+We will then apply these methods to results obtained from openly available neuroimaging datasets analysed using SPM, FSL and AFNI. Building on the notebooks available in the tutorials, the goal of the project is to create a notebook displaying and comparing these results in an open and reproducible way.
+
+
+### Contact
+Alex Bowring \\
+[a.bowring@warwick.ac.uk](mailto:a.bowring@warwick.ac.uk)
