@@ -12,5 +12,5 @@ description: MRIQC is a robust T1-weighted and fMRI quality control tool with fo
 
 ## Contact  
 Oscar Esteban
-[gleb@intentionalinsights.org](mailto: oesteban@stanford.edu)  
+[oesteban@stanford.edu](mailto:oesteban@stanford.edu)  
 [https://github.com/poldracklab/mriqc](https://github.com/poldracklab/mriqc)  
