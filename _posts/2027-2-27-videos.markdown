@@ -8,7 +8,11 @@ image: YouTube-logo-full_color-222x180.png
 description: Videos from previous Brainhack events are available on YouTube.
 ---
 
-### Brainhack Video Lectures and Tutorials
+### [Growing list of broadcasts from Brainhack Global 2017](https://hackpad.com/Brainhack-Global-2017-Video-Content-ZP53JJlhGyJ)
+
+<script src="https://hackpad.com/ZP53JJlhGyJ.js"></script><noscript><div>View <a href="https://hackpad.com/ZP53JJlhGyJ">Brainhack Global 2017 Video Content</a> on Hackpad.</div></noscript>
+
+### Youtube Playlist of Brainhack Video Lectures and Tutorials
 Talks and hands-on tutorials from previous Brainhack events are available on YouTube using the following play lists:
 - [Brainhack EDT 2014](https://www.youtube.com/playlist?list=PLNt4AJV1JZbfcRh9gEdHu47edoQE76bp5)
 - [Brainhack AMX 2015](https://www.youtube.com/playlist?list=PLNt4AJV1JZbe8wO4vG9cOkFiSazJGuHjw)
