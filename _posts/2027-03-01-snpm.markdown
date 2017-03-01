@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "SnPM"
+date:   2017-3-1 10:31:06
+big: 0
+project_categories: Warwick 2017
+image: SnPM_Central-222x180.png
+description: SnPM is a SPM toolbox that allows nonparametric inferences.
+---
+
+### Summary
+Currently SnPM designs are specified through various 'plug-ins' and cannot use information in an already completed SPM run.  The "Auto SnPM" project will create a new plug-in that will allow the specification of an already-estimated SPM.mat, automatically configuring the SnPM analysis.
+
+URL: [http://warwick.ac.uk/SnPM](http://warwick.ac.uk/SnPM)
+
+
+### Contact
+Thomas Nichols \\
+[t.e.nichols@warwick.ac.uk](mailto:t.e.nichols@warwick.ac.uk)

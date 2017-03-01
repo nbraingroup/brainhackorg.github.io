@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "MDM"
+date:   2017-3-1 10:31:06
+big: 0
+project_categories: Warwick 2017
+image: mdmBrainhack3.png
+description: MDM (Multiregression Dynamic Models) is a package written in R to study directed dynamic functional connectivity.
+---
+
+### Summary
+We will explore how MDM can be used to analyze fMRI time-series, with a key focus on network visualization and diagnostics of the estimates. Here is a [list](https://github.com/schw4b/mdm/issues) of ways that you can contribute to this ongoing development effort.
+
+Github page: [https://github.com/schw4b/mdm](https://github.com/schw4b/mdm)
+
+
+### Contact
+Simon Schwab \\
+[schw4b@gmail.com](mailto:schw4b@gmail.com)
