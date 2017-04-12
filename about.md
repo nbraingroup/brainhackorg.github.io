@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-# About
+# About Brainhack
 
 ## Information about the brainhack organization and hosting a brainhack
 
@@ -51,16 +51,6 @@ We publish short reports describing projects completed at Brainhack events that 
 ### Brainhack Thematic Series
 
 We invite full length publications that describe projects worked on as part of Brainhack or that are consistent with the Brainhack Proceedings to be published in the [GigaScience Brainhack Thematic Series](https://academic.oup.com/gigascience/pages/brainhack_open_tools_for_brain_science).
-
-### Brainhack Video Lectures and Tutorials
-Talks and hands-on tutorials from previous Brainhack events are available on YouTube using the following play lists:
-- [Brainhack EDT 2014](https://www.youtube.com/playlist?list=PLNt4AJV1JZbfcRh9gEdHu47edoQE76bp5)
-- [Brainhack AMX 2015](https://www.youtube.com/playlist?list=PLNt4AJV1JZbe8wO4vG9cOkFiSazJGuHjw)
-- [Brainhack Vienna 2016](https://www.youtube.com/playlist?list=PLNt4AJV1JZbcCs84XEbN9XdXBXN9U-kyT)
-- [Brainhacking 101 (tutorials from AMX)](https://www.youtube.com/playlist?list=PLNt4AJV1JZbfq0vdD4vcITV7x3OqGxLKp)
-- [Neurohackweek 2016](https://www.youtube.com/playlist?list=PLEdFhTRBFLObkatJOX9wp3BCueH4wNSl7)
-- [Brainhack Global 2017](https://www.youtube.com/playlist?list=PLNt4AJV1JZbfcRh9gEdHu47edoQE76bp5)
-
 
 ## Brainhack Outcomes
 Below is a brief list of some of the projects that have been created at Brainhack events. More detailed information can be found in the [Brainhack Proceedings](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0147-0) and in our recent publication on [Brainhack](https://gigascience.biomedcentral.com/articles/10.1186/s13742-016-0121-x).
