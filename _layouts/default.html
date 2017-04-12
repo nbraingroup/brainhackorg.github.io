@@ -1,44 +1,107 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+    <script type="text/javascript" src="/javascripts/jquery.min.js"></script>
+    <script type="text/javascript" src="/javascripts/isotope.pkgd.js"></script>
+    <script type="text/javascript" src="/javascripts/bootstrap.min.js"></script>
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/stylesheets/bootstrap.min.css" type="text/css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/octicons.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="/stylesheets/print.css" media="print" />
+    <link rel="stylesheet" href="/stylesheets/bib-publication-list.css"/>
+    <link rel="stylesheet" href="/stylesheets/default/default.css" type="text/css" media="screen" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
-    </head>
-    <body>
+    <script type="text/javascript">
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+      try {
+        var pageTracker = _gat._getTracker("UA-53194826-1");
+        pageTracker._trackPageview();
+      } catch(err) {}
+    </script>
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+    <title>Brainhack</title>
 
-          {{ content }}
+  </head>
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
+  <body>
+    <!-- <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+    <div class="container-bhack" >
+      <img src="/assets/images/brainhack_header.png" id="logo">
+      <nav class="navbar navbar-bhack">
+        <!-- <div class="container-fluid"> -->
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav nopad-left">
+              {% if layout.navbar == true %}
+                <li class="nopad-left"><input type="text" class="quicksearch" placeholder="SEARCH PROJECTS" /></li>
+              {% else %}
+                <li class="nopad-left"><a href="/index.html">PROJECTS</a></li>
+              {% endif %}
+              <li class="nopad-left"><a href="/submission.html">+SUBMIT PROJECT</a></li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">EVENTS<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="http://events.brainhack.org/global2017" target="_blank">Brainhack Global 2017</a></li>
+                  <li><a href="http://brainhackghent.wixsite.com/brainhackghent" target="_blank">Brainhack Ghent 2017</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="http://brainhack.org/brainhackparis/" target="_blank">Brainhack@Paris 2016</a></li>
+                  <li><a href="http://events.brainhack.org/OHBM2016" target="_blank">OHBM Hackathon 2016 (Lausanne)</a></li>
+                  <li><a href="http://events.brainhack.org/vienna" target="_blank">Brainhack Vienna 2016</a></li>
+                  <li><a href="http://neuroanatomy.github.io/events/brainhack/" target="_blank">Brainhack: Anatomy. Paris 2016</a></li>
+                  <li><a href="http://events.brainhack.org/LA2016" target="_blank">Brainhack LA 2016</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="http://brainhack.org/hackathon2015/" target="_blank">OHBM Hackathon 2015 (Honolulu)</a></li>
+                  <li><a href="https://www.rbiq-qbin.qc.ca/en/event/3790" target="_blank">Brainhack Montréal 2015</a></li>
+                  <li><a href="http://brainhack.org/americas/" target="_blank">Brainhack Americas 2015</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="http://brainhack.org/hackathon2014/" target="_blank">OHBM Hackathon 2014 (Berlin)</a></li>
+                  <li><a href="http://brainhack.org/brainhack-edt" target="_blank">Brainhack Eastern Daylight Time 2014</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="http://brainhack.org/brainhack-2013" target="_blank">Brainhack 2013 (Paris)</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="http://www.cbs.mpg.de/events/workshops/brainhack" target="_blank">2012 Brainhack & Unconference (Leipzig)</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PROCEEDINGS<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/proceedings_2016.html">Submit a report for 2016</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="/proceedings_2015.html">2015</a></li>
+                </ul>
+              </li>
+              <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">LEARN MORE<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="/about.html">About</a></li>
+                  <li role="separator" class="divider"></li>
+                  <li><a href="/lectures.html">Video Lectures</a></li>
+                  <li><a href="/tutorials.html">Coding Tutorials</a></li>
+                </ul>
+              </li>
 
-    </body>
+              <li><a href="https://brainhack-slack-invite.herokuapp.com/">JOIN SLACK CHANNEL</a></li>
+              <li><a href="/code-of-conduct.html">CODE OF CONDUCT</a></li>
+            </ul>
+          </div><!-- /.navbar-collapse -->
+        <!-- </div><!-- /.container-fluid -->
+      </nav>
+    </div>
+
+    {{ content }}
+
+  </body>
 </html>
