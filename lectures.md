@@ -91,7 +91,9 @@ function debounce( fn, threshold ) {
 
 </script>
 
-## Video Collections
+<hr>
+
+# Video Collections
 
 Talks and hands-on tutorials from previous Brainhack events are available on YouTube using the following play lists:
 
