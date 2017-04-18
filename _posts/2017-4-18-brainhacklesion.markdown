@@ -6,7 +6,7 @@ big: 1
 project_categories: Events 2017
 image: brainhacklesionsparis2017.png
 description: We are happy to announce the upcoming Brainhack: Lesions at the Mozilla Lab in Paris, May 9-10, 2017. More information is available at: [http://neuroanatomy.github.io/events/brainhack-lesions/](neuroanatomy.github.io/events/brainhack-lesions/)
-project_url: http://neuroanatomy.github.io/events/brainhack-lesions/
+url: http://neuroanatomy.github.io/events/brainhack-lesions/
 ---
 
 ## Summary
