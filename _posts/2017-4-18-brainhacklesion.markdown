@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brainhack: Lesions. Paris 2017"
+title: "Brainhack Lesions. Paris 2017"
 date: 2017-4-19 10:31:06
 big: 1
 project_categories: Events 2017
