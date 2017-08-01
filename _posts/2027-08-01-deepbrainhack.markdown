@@ -24,25 +24,25 @@ URL: [ https://brainhack101.github.io/deepbrainhack2017/](https://brainhack101.g
 
 #### Thursday August 24th 2017
 
-9:00 - 9:30 Breakfast
-9:30 - 9:45 Introduction
-9:45 - 10:15 Introduction to Deep Learning
-9:45 - 10:15 Introduction to Neuroimaging Data
-10:15 - 11:15 Project Pitches
-11:15 - 12:15 Open Hacking
-12:15 - 1:30 Lunch
-1:30 - 16:30 Open Hacking
-16:30 - 17:30 Unconference
+9:00 - 9:30 Breakfast \\
+9:30 - 9:45 Introduction \\
+9:45 - 10:15 Introduction to Deep Learning \\
+9:45 - 10:15 Introduction to Neuroimaging Data \\
+10:15 - 11:15 Project Pitches \\
+11:15 - 12:15 Open Hacking \\
+12:15 - 1:30 Lunch \\
+1:30 - 16:30 Open Hacking \\
+16:30 - 17:30 Unconference \\
 17:30 - 23:00 Open Hacking (optional)
 
 #### Friday August 25th, 2017
 
-9:00 - 9:30 Breakfast
-9:30 - 12:15 Open Hacking
-12:15 - 13:30 Lunch
-13:30 - 14:30 Unconference
-14:30 - 16:00 Hacking
-16:00 - 17:00 Project Presentations
+9:00 - 9:30 Breakfast \\
+9:30 - 12:15 Open Hacking \\
+12:15 - 13:30 Lunch \\
+13:30 - 14:30 Unconference \\
+14:30 - 16:00 Hacking \\
+16:00 - 17:00 Project Presentations \\
 17:00 Adjourn
 
 
