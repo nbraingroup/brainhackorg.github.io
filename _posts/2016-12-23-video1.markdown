@@ -1,0 +1,8 @@
+---
+layout: post
+title:  Cameron Craddock
+date:   2016-11-11 10:39:06
+video_categories: proceedings
+video-url: JLJFKV7p74A
+description: Welcome and description of Brainhack Proceedings 2017
+---

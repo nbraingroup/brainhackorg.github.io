@@ -10,7 +10,7 @@ title: Homepage
 <div class="grid">
  {% assign num = 0 %}
   {% for post in site.posts %}
-
+    {% if post.video-url == none %}
       {% if post.big == 1 %}
           <div class="entry entry-big">
       {% else %}
@@ -67,6 +67,7 @@ title: Homepage
       </div><!-- end .entry -->
 
       {% assign num = num | plus: 1 %}
+    {% endif %}
   {% endfor %}
 </div>
 

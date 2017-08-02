@@ -922,6 +922,11 @@ footer a:hover {
     width: 472px;
 }
 
+.entry-video
+{
+    width: 303px;
+}
+
 .entry-thumbnail
 {
     position: relative;
@@ -930,11 +935,22 @@ footer a:hover {
 		height: 180px;
 		margin: 2px 0 14px 2px;
 }
+
 .entry-big .entry-thumbnail
 {
     top: 40px;
 		width: 466px;
 }
+
+.entry-video .entry-thumbnail
+{
+    position: relative;
+		top: 40px;
+		width: 297px;
+		height: 218px;
+		margin: 2px 0 14px 2px;
+}
+
 
 .entry-thumbnail .overlay
 {
@@ -954,6 +970,16 @@ footer a:hover {
 		width: 480px;
 		height: 180px;
 		background: url(../assets/images/overlay2.png) no-repeat;
+}
+
+.entry-video .entry-thumbnail .overlay
+{
+  position: absolute;
+  top: 0; left: 0;
+  display: block;
+  width: 301px;
+  height: 218px;
+  background: url(../assets/images/overlay.png) no-repeat;
 }
 
 

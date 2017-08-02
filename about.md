@@ -5,7 +5,7 @@ title: About
 
 # About Brainhack
 
-## Information about the brainhack organization and hosting a brainhack
+## Why Brainhack?
 
 Answering the next generation of open questions in neuroscience will require very large data sets and complex analytical methods. The purpose of Brainhack is to bridge the data science and neuroscience research communities to advance the progress of brain science research. Brainhack is a unique conference that convenes researchers from across the globe and myriad disciplines to work together on innovative projects related to neuroscience. Year after year, global Brainhack events have brought together researchers to participate in open collaboration and regional Brainhack events keep the momentum going throughout the year.
 
