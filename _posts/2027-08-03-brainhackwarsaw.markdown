@@ -23,10 +23,10 @@ Please note AoN Brainhack Warsaw 2017 is a satellite event for the interdiscipli
 Important deadlines:
 
 Deadline for project proposals:                      September 1st, 2017 \\
-Announcement of projects:                            September 15th, 2017 \\
+Announcement of projects:                            September 15th, 2017
 
 Participant registration starts:                        September 1st, 2017 \\
-Deadline for participant registration:              November 1st, 2017 \\
+Deadline for participant registration:              November 1st, 2017 xs
 
 At the moment, the call for project proposals is open. The proposals can include various forms of a group activity, e.g., data analysis, app development, a two-day discussion club, developing a new software etc. The organizers will provide a few openly available datasets to the project authors, but developing projects using private datasets is also welcome.
 
@@ -43,6 +43,6 @@ URL: [https://brainhackwarsaw.github.io/](https://brainhackwarsaw.github.io/)
 
 ### Contact
 Natalia Bielczyk \\
-[natalia.bielczyk@gmail.com](mailto:natalia.bielczyk@gmail.com)
+[natalia.bielczyk@gmail.com](mailto:natalia.bielczyk@gmail.com) \\
 Daniel Borek \\
 [dtborek@gmail.com](mailto:dtborek@gmail.com)
