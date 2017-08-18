@@ -45,6 +45,9 @@ URL: [ https://brainhack101.github.io/deepbrainhack2017/](https://brainhack101.g
 16:00 - 17:00 Project Presentations \\
 17:00 Adjourn
 
+#### The Deep Brainhack is generously sponsored by:
+![alt text](https://github.com/brainhackorg/brainhackorg.github.io/blob/master/assets/images/elementai.jpeg?raw=true)
+![alt text](https://github.com/brainhackorg/brainhackorg.github.io/blob/master/assets/images/hbhllogo.png?raw=true)
 
 ### Contact
 Andrew Doyle \\
