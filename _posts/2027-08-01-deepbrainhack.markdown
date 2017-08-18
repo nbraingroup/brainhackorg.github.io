@@ -4,7 +4,7 @@ title:  "Deep Brainhack"
 date:   2017-8-01 10:31:06
 big: 1
 project_categories: Events 2017
-image: deepbrainhack.png
+image: elementai.jpeg
 description: Deep Brainhack = Neuroscience + Deep Learning
 ---
 
