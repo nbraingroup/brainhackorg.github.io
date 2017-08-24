@@ -4,7 +4,7 @@ title:  "Deep Brainhack"
 date:   2017-8-01 10:31:06
 big: 1
 project_categories: Events 2017
-image: deepbrainhack.png
+image: hbhllogo.png
 description: Deep Brainhack = Neuroscience + Deep Learning
 ---
 
@@ -45,6 +45,8 @@ URL: [ https://brainhack101.github.io/deepbrainhack2017/](https://brainhack101.g
 16:00 - 17:00 Project Presentations \\
 17:00 Adjourn
 
+#### The Deep Brainhack is generously sponsored by:
+![alt text](https://github.com/brainhackorg/brainhackorg.github.io/blob/master/assets/images/elementai.jpeg?raw=true)
 
 ### Contact
 Andrew Doyle \\
