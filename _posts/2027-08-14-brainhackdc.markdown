@@ -14,7 +14,7 @@ description: Brainhack DC 2017
 
 ### Web page
 
-URL: [http://www.brainhack.org/DC2017/](http://www.brainhack.org/DC2017/)
+URL: [http://www.brainhack.org/DC2017/](http://www.brainhack.org/DC2017/) \\
 Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdeVAfBTZ3G4B8gBR44RSJDUP9Xb399wAjMktlHyN0gEtTTcA/viewform?usp=sf_link)
 
 
