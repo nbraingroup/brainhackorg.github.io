@@ -20,4 +20,4 @@ Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdeVAfBTZ3G4B8gBR44RSJD
 
 ### Contact
 Sara Kimmich \\
-[sarakimmich@gmail.com](mailto:sarakimmich@gmail.com) \\
+[sarakimmich@gmail.com](mailto:sarakimmich@gmail.com)
