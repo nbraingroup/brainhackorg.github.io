@@ -4,7 +4,7 @@ title:  "Brainhack London - Clinical Neuroanatomy 2017"
 date:   2017-9-26 10:31:06
 big: 1
 project_categories: Events 2017
-image: brainhacklondonlogo.png
+image: brainhacklondonlogo.png 
 description: Brainhack London - Clinical Neuroanatomy 2017
 ---
 
