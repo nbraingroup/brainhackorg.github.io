@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Brainhack London - Clinical Neuroanatomy 2017"
+date:   2017-9-26 10:31:06
+big: 1
+project_categories: Events 2017
+image: brainhacklondonlogo.png
+description: Brainhack London - Clinical Neuroanatomy 2017
+---
+
+### Dates
+
+25-27 September 2017
+
+### Location
+[Gordon Museum of Pathology, Kings College, London, UK](https://www.google.co.uk/maps/place/Hodgkin+Building/@51.503107,-0.0901223,122m/data=!3m1!1e3!4m12!1m6!3m5!1s0x48760359ea91c001:0x182cc506c2c07fd4!2sGordon+Museum!8m2!3d51.5039054!4d-0.0902803!3m4!1s0x0:0x979794147a5ec684!8m2!3d51.5031062!4d-0.0895751?hl=en)
+
+### Web page
+
+URL: [https://www.brainhacklondon.eu](https://www.brainhacklondon.eu)
+
+### Contact
+Stephanie Forkel \\
+[stephanie.forkel@kcl.ac.uk](mailto:stephanie.forkel@kcl.ac.uk)
