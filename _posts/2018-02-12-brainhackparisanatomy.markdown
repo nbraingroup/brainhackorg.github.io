@@ -5,7 +5,7 @@ date:   2018-02-12 16:31:06
 big: 1
 project_categories: Events 2018
 image: brainhack_paris_anatomy_2018.png
-description: 19-21 February 2018 at Mozilla Paris
+description: Brainhack in Paris: Anatomy, 19-21 February 2018 at Mozilla Paris
 ---
 
 ### Dates
