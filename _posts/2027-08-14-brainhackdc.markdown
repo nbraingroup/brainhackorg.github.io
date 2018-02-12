@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brainhack DC 2017"
-date:   2027-8-14 10:31:06
+date:   2017-8-14 10:31:06
 big: 1
 project_categories: Events 2017
 image: brainhackdclogo.png
