@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Brainhack in Paris: Anatomy"
-date:   2018-02-12 16:31:06
+title:  "Brainhack Gradients 2017"
+date:   2017-12-18 22:31:06
 big: 1
-project_categories: Events 2018
-image: brainhack_paris_anatomy_2018.png
-description: Brainhack Paris Anatomy 2018
+project_categories: Events 2017
+image: brainhackgradients.png
+description: Brainhack Gradients 2017
 ---
 
-### Dates
-
-19-21 February 2018
-
 ### Location
+[Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig, Germany](https://goo.gl/maps/wAq4ia82dvE2)
 
-Mozilla, 16 Boulevard Montmartre, 75009 Paris
 
-### Registration
+### Web page
 
-[Link for more information](http://www.bcblab.com/BCB/Events/Entries/2018/2/19_BrainHack_in_Paris__Anatomy.html)
+[link](http://www.cbs.mpg.de/events/11617/339335)
+
+### Contact
+Daniel Margulies \\
+[margulies@cbs.mpg.de](mailto:margulies@cbs.mpg.de)
