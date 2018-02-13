@@ -33,6 +33,6 @@ We expect participants to follow these rules at all event venues and event-relat
 
 ## Reporting
 
-If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the events organizers or [info@brainhack.org](mailto:info@brainhack.org). Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
+If someone makes you or anyone else feel unsafe or unwelcome, please report it as soon as possible to the events organizers or [brainhackorg@gmail.com](mailto:brainhackorg@gmail.com). Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
 
 You can make a report either with your personal email or using an anonymous email.

@@ -37,7 +37,7 @@ The Brainhack organization is composed of individuals that have previously hoste
 
 ### How to Become a Member
 
-If you would like to join the organization please contact a board member or email [info@brainhack.org](mailto:info@brainhack.org).
+If you would like to join the organization please contact a board member or email [brainhackorg@gmail.com](mailto:brainhackorg@gmail.com).
 
 ## Brainhack Publications
 
