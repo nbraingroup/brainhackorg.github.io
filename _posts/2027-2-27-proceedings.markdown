@@ -9,8 +9,8 @@ description: Reports describing projects completed at Brainhack events.
 ---
 
 ## Brainhack Proccedings
-- [2016](proceedings_2016.html)
-- [2015](proceedings_2015.html)
+- [2016](http://brainhack.org/proceedings_2016.html)
+- [2015](http://brainhack.org/proceedings_2015.html)
 
 
 ## Contact  
