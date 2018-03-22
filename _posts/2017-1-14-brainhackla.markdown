@@ -8,4 +8,4 @@ big: 1
 description: Brainhack LA will take place November 10 – 12, 2016.
 ---
 
-Brainhack LA will take place November 10 – 12, 2016. For more information visit: [http://events.brainhack.org/LA2016](http://events.brainhack.org/LA2016)
+Brainhack LA will take place November 10 – 12, 2016. For more information visit: [http://brainhack.org/LA2016](http://brainhack.org/LA2016)

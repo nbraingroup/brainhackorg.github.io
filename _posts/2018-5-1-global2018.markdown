@@ -6,12 +6,12 @@ project_categories: Events 2018
 image: bhack_global_2018.png
 big: 1
 description: Synchronized Brainhack Events in across the globe
-project_url: http://events.brainhack.org/global2018
+project_url: http://brainhack.org/global2018
 ---
 ## Summary
-You are invited to attend [Brainhack Global 2018](http://events.brainhack.org/global2018) at one of the regional events occuring accross the globe.
+You are invited to attend [Brainhack Global 2018](http://brainhack.org/global2018) at one of the regional events occuring accross the globe.
 
-[Brainhack](http://events.brainhack.org) is a unique conference that convenes researchers from myriad disciplines to work together on innovative projects related to neuroscience. Brainhack Global will host several simultaneous to build a critical mass for the regional Brainhack movement and provide opportunities for inter-Brainhack collaboration. Local events will be connected by videoconference to expand collaborative opportunities so that smaller sites can plug into the content and energy generated at larger sites.
+[Brainhack](http://brainhack.org) is a unique conference that convenes researchers from myriad disciplines to work together on innovative projects related to neuroscience. Brainhack Global will host several simultaneous to build a critical mass for the regional Brainhack movement and provide opportunities for inter-Brainhack collaboration. Local events will be connected by videoconference to expand collaborative opportunities so that smaller sites can plug into the content and energy generated at larger sites.
 
 In addition to time spent collaborating on neuroscience projects, activities at the Brainhack will include:
 
@@ -20,8 +20,8 @@ In addition to time spent collaborating on neuroscience projects, activities at 
 - Open conference sessions during which attendees can present their research
 - Brainhack has partnered with GigaScience to publish the “Proceedings from Brainhack Americas”. Brainhack attendees will be eligible to submit project reports describing the work that they performed during the event, which will be peer reviewed and edited by members of the Brainhack community.
 
-Refer to the [Brainhack Global 2018 webpage](http://events.brainhack.org/global2018) for a complete list of locations.
+Refer to the [Brainhack Global 2018 webpage](http://brainhack.org/global2018) for a complete list of locations.
 
 
 ## Contact
-Please refer to [events.brainhack.org/global2018](events.brainhack.org/global2018) to register for a local event and please pass this invitation on to your friends and colleagues.
+Please refer to [brainhack.org/global2018](brainhack.org/global2018) to register for a local event and please pass this invitation on to your friends and colleagues.

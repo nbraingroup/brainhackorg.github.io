@@ -7,4 +7,4 @@ image: brainhack_vienna2-222x180.png
 description: Brainhack Vienna will take place Sept 18 – 20, 2016.
 ---
 
-Brainhack Vienna will take place Sept 18 – 20, 2016. For more information visit: [http://events.brainhack.org/vienna](http://events.brainhack.org/vienna)
+Brainhack Vienna will take place Sept 18 – 20, 2016. For more information visit: [http://brainhack.org/vienna](http://brainhack.org/vienna)
