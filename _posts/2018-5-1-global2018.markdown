@@ -2,8 +2,8 @@
 layout: post
 title:  "Brainhack Global 2018"
 date:   2018-5-1 13:53
-project_categories: Events 2017
-image: Screen-Shot-2017-01-16-at-10.29.22-AM-466x180.png
+project_categories: Events 2018
+image: bhack_global_2017.png
 big: 1
 description: Synchronized Brainhack Events in across the globe
 project_url: http://events.brainhack.org/global2018
