@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Brainhack Proceedings"
-date:   2017-2-27 10:31:06
+date:   2027-2-27 10:31:06
 big: 0
 project_categories: Outcomes
 image: brainhack_greenbrain-e1380499421954-222x180.png

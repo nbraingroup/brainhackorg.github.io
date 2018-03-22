@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thematic Series"
-date:   2017-2-27 10:46:06
+date:   2027-2-27 10:46:06
 project_categories: Outcomes
 image: gigascience-07-222x180.png
 big: 0
