@@ -5,7 +5,7 @@ date:   2018-5-1 13:53
 project_categories: Events 2018
 image: bhack_global_2018.png
 big: 1
-description: Synchronized Brainhack Events in across the globe
+description: Synchronized Brainhack events occuring at multiple sites globally.
 project_url: http://brainhack.org/global2018
 ---
 ## Summary
