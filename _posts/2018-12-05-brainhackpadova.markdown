@@ -5,7 +5,7 @@ date:   2018-12-04 09:00:00
 big: 1
 project_categories: Events 2018
 image: BrainhackPadova_logo_466x180.png
-description: Brainhack Zurich 2018 will take place from October 24-26 at ETH Zurich & University Hospital Zurich.
+description: Brainhack in Padova will take place from December 5-7, 2018
 ---
 ## Brainhack in Padova: Evolution  
 
