@@ -3,7 +3,7 @@ layout: post
 title:  "Brainhack Open Geneva 2019"
 date:   2019-03-22 09:00:00
 big: 1
-project_categories: Events 2018
+project_categories: Events 2019
 image: brainhack_geneva2019.png
 description: Brainhack Open Geneva will take place from March 22-23, 2019
 ---
