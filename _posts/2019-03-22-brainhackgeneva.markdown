@@ -1,22 +1,15 @@
 ---
 layout: post
-title:  "Brainhack in Padova: Evolution"
-date:   2018-12-04 09:00:00
+title:  "Brainhack Open Geneva 2019"
+date:   2019-03-22 09:00:00
 big: 1
 project_categories: Events 2018
-image: BrainhackPadova_logo_466x180.png
-description: Brainhack in Padova will take place from December 5-7, 2018
+image: brainhack_geneva2019.png
+description: Brainhack Open Geneva will take place from March 22-23, 2019
 ---
 ## Brainhack in Padova: Evolution  
 
-Location: University of Padova, 8 Via Venezia, 35131 Padua, Italy  
-
-URL: [www.bcblab.com/BCB/Events/Entries/2018/12/5_BrainHack_in_Padova__The_Evolution_of_the_Mind_and_the_Brain.html](http://www.bcblab.com/BCB/Events/Entries/2018/12/5_BrainHack_in_Padova__The_Evolution_of_the_Mind_and_the_Brain.html)  
-
-Description: Registration is now open!  
-Registration is FREE but mandatory via email to michel.thiebaut@gmail.com  
-!!!Deadline for registration is 30th of November 2018!!!  
-This workshop integrates all levels of expertise and is also an opportunity to learn methods, develop skills, and collaborate with other participants.  
-Join the fun!  
-
-Contact information: michel.thiebaut@gmail.com  
+Location: Campus Biotech, Geneva, Switzerland  
+URL: [www.brainhack.ch](www.brainhack.ch)  
+Description: Come and join our 2-day Brainhack on March Friday 22nd / Saturday 23rd! While all projects will deal with the brain, quite a few will explore beyond imaging, with projects mixing imaging with virtual reality, brain stimulation, or even live 3D printed brains. Everyone is welcome, whatever their background! For more information, and to join us, check out our website at [www.brainhack.ch]  
+Contact information: michael.dayan@fcbg.ch  
