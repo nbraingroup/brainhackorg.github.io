@@ -7,9 +7,11 @@ project_categories: Events 2019
 image: brainhack_geneva2019.png
 description: Brainhack Open Geneva will take place from March 22-23, 2019
 ---
-## Brainhack in Padova: Evolution  
+## Brainhack Open Geneva 2019  
 
 Location: Campus Biotech, Geneva, Switzerland  
-URL: [www.brainhack.ch](www.brainhack.ch)  
-Description: Come and join our 2-day Brainhack on March Friday 22nd / Saturday 23rd! While all projects will deal with the brain, quite a few will explore beyond imaging, with projects mixing imaging with virtual reality, brain stimulation, or even live 3D printed brains. Everyone is welcome, whatever their background! For more information, and to join us, check out our website at [www.brainhack.ch]  
-Contact information: michael.dayan@fcbg.ch  
+Website: [www.brainhack.ch](www.brainhack.ch)  
+
+Come and join our 2-day Brainhack on March Friday 22nd / Saturday 23rd! While all projects will deal with the brain, quite a few will explore beyond imaging, with projects mixing imaging with virtual reality, brain stimulation, or even live 3D printed brains. Everyone is welcome, whatever their background! For more information, and to join us, check out our website at [www.brainhack.ch](www.brainhack.ch)  
+
+Contact: michael.dayan@fcbg.ch  
