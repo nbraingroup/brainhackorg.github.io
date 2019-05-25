@@ -27,7 +27,7 @@ The board meets quarterly to plan future Brainhack events and discuss other busi
   <li>Cameron Craddock, PhD - Chair</li>
   <li>Pierre Bellec, PhD</li>
   <li>Sook-Lei Liew, PhD, OTR/L</li>
-  <li>Daniel Margulies, Dr. rer. nat.</li>
+  <li>Daniel Margulies, PhD</li>
   <li>Nolan Nichols, PhD</li>
   <li>Tal Yarkoni, PhD</li>
 </ul>
