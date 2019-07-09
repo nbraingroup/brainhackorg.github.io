@@ -6,7 +6,6 @@ big: 1
 project_categories: Events 2018
 image: bhack_networks_2018.png
 description: "9 & 10 of June 2018, Brain and Spine Institute, Paris"
-project_url: http://brainhack-networks.com
 ---
 ## Description
 

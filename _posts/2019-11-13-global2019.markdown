@@ -6,7 +6,6 @@ project_categories: Events 2019
 image: bhack_global_2019.png
 big: 1
 description: Synchronized Brainhack events occuring at multiple sites globally.
-project_url: http://brainhack.org/global2019
 ---
 ## Summary
 You are invited to attend [Brainhack Global 2019](http://brainhack.org/global2019) at one of the regional events occuring accross the globe.

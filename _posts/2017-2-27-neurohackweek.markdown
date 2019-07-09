@@ -6,7 +6,6 @@ big: 1
 project_categories: Events 2017
 image: neurohackweek-bg-466x180.png
 description: We are happy to announce a call for applications to participate in the Neurohackweek summer school for neuroimaging and data science.
-project_url: http://neurohackweek.github.io/
 ---
 
 ## Summary
