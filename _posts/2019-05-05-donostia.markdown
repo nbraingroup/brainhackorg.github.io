@@ -4,6 +4,7 @@ title:  "Brainhack Donostia"
 date:   2019-5-05 10:43:06
 project_categories: Events 2019
 image: donostia_05052019.png
+big: 1
 description: Brainhack Donostia will take place May 5 - 8, 2019.
 ---
 
