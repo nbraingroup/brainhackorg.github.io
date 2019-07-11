@@ -12,7 +12,12 @@ The Montreal BrainHack School is a 4-weeks long full-time educational workshop, 
 Graduate students (Master and PhD) at the psychology department of Université de Montréal can register to brainhack school as a 3 credit course called "PSY 6983 - Projet en sciences des données neuronales" . Graduate students at École Polytechnique, Concordia University and McGill University can register to PSY 6983 through the Bureau de coopération inter-universitaire. Participants from outside of the partner institutions can register too.
 
 Dates: August 5th - 30th, 2019
+
 Costs: free for partner institutions, 50 CAD otherwise
+
 Location: McGill (week 1), Université de Montréal (week 2), École Polytechnique (week 3) et Université Concordia (week 4), Montréal, Canada
+
 Website: [https://brainhackmtl.github.io/school2019/index_fr.html](https://brainhackmtl.github.io/school2019/index_fr.html)
+
 Registration: [https://www.eventbrite.ca/e/brainhack-school-2019-registration-59972899557](https://www.eventbrite.ca/e/brainhack-school-2019-registration-59972899557)
+
