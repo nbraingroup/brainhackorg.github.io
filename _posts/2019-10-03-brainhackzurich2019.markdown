@@ -5,7 +5,7 @@ date: 2019-10-03 09:00:00
 big: 1
 project_categories: Events 2019
 image: BrainhackZurich2019_logo_466x180.png
-description: Brainhack Zurich 2019 will take place from October 3rd-4th at Zurich TGIM Space.
+description: 2nd Brainhack Zurich, 2019 will take place from October 3rd-4th at Zurich TGIM Space.
 ---
 ## 2nd Brainhack Zurich, 2019
 
