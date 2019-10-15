@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Brainhack Vienna, 2019"
+date: 2019-10-15 09:00:00
+big: 1
+project_categories: Events 2019
+image: brainhack_vienna_2019.jpg
+description: Brainhack Vienna will take place from December 11th-13th at Complexity Science Hub.
+---
+
+Hosts: CIR Medical University of Vienna, Complexity Science Hub Vienna
+
+Location: Complexity Science Hub Vienna, Austria
+
+URL: [https://brainhack-vienna.github.io/](https://brainhack-vienna.github.io/)
+
+Description: Brainhack Vienna will orbit around the EvoDevo theme. We aim to bring together a diverse crowd of neuroscientists, neuroimaging geeks, evolutionary biologists, antropologists and developmental scientists to tackle exciting interdisciplinary problems across the fields.
+The brainhack will include unconference talks and lots of hacking on various datasets, dataset mergers and non-coding projects.  
+
+Contact information: brainhack.vienna@gmail.com
