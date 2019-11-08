@@ -1,8 +1,0 @@
----
-layout: post
-title: "Bernard Mazoyer"
-date:   2016-11-11 10:39:06
-video_categories: Function
-video-url: Rh31CsIX8bE
-description: Language Lateralization
----
