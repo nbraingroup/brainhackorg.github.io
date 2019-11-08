@@ -1,10 +1,32 @@
 *{
     margin: 0;
-    color: white;
-
+    font-family: 'Share Tech Mono', monospace;
 }
 
 body{
-    background-color: black;
+    
+    background-image: url('tlo.jpg');
+    background-position: 20;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+header{
+    width: 100%;
+    color: #01FFFF;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 40px;
+    text-shadow: 2px 2px 8px  #01FFFF ;
+}
+.app{
+    width: 100%;
+
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10%;
+    margin: 5%;
 
 }
