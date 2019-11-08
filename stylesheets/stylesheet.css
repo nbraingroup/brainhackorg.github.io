@@ -3,6 +3,10 @@
    License: none (public domain)
 */
 
+body {
+    background-color: red !important;
+}
+
 /* fonts */
 @font-face {
     font-family: 'league_gothiccondensed_italic';
