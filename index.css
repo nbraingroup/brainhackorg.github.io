@@ -7,7 +7,7 @@ body{
     
     background-image: url('tlo.jpg');
     background-position: 20;
-    background-repeat: no-repeat;
+    
     background-size: cover;
     color: white;
 }
@@ -28,5 +28,13 @@ main{
     grid-template-columns: 1fr;
     gap: 10%;
     margin: 5%;
+
+}
+
+.workshop-table-row div{
+    border: #01FFFF 2px solid;
+    margin: 2%;
+    width: 30%;
+    border-radius: 5px;
 
 }
